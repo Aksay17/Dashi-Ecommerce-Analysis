@@ -1,0 +1,561 @@
+CustomerCode,CustomerTitle,DestinationCategoryTitle,DestinationGroupTitle,Email,ContactNumber,MobileNumber,CreditDays,ISRegistered,STRegistrationNo,AccountCode,AccountTitle,NTN,NationalTitle,RegionTitle,TerritoryTitle,TownTitle,ZoneTitle,Active,Address
+1,kawish jodia,trader,adil,ali.qamber@atlashonda.com.pk,021-32575561,0332-2483905,30,Yes,0,101002001,Account Receivable,3771196-2,None,None,None,karachi,sindh,Yes,"F-36, ESTATE AVENUE, S.I.T.E. KARACHI"
+2,Bashir & Sons,trader,adnan,mwhaque@atlashonda.com.pk,021-32575561,0333-2196823,30,Yes,0,101002001,Account Receivable,0801063-3,None,None,None,lahore,punjab,Yes,"F-36, ESTATE AVENUE, S.I.T.E. KARACHI"
+3,Ghulam Abbas jodia,trader,adnan,arslan.amin@atlashitec.com.pk,021-32575561,+92 (333) 3550323,30,Yes,0,101002001,Account Receivable,4040362-9,None,None,None,karachi,sindh,Yes,"F-36, ESTATE AVENUE, S.I.T.E. KARACHI"
+4,Prawn ckr Sadrudin impres market,trader,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+5,Umar ckr,trader,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+6,Amanullah Sukhur,distributor,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,sukkur,sindh,Yes,None
+7,Asim Jodia,trader,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+8,Faisal lahori,trader,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,lahore,punjab,Yes,None
+10,Raheem jodia,trader,adnan,None@gmail.com,-,-,30,Yes,0,401002,Sales,-,None,None,None,karachi,sindh,Yes,None
+11,Rossatti restaurant,restaurant,sultan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+12,Abid Chemical Fsb,trader,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,faisalabad,punjab,Yes,None
+13,Al Habib CHICKEN,trader,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+14,Amaar food fsb,trader,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,faisalabad,punjab,Yes,None
+15,Arsalan jodia,distributor,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+16,Pak Food Rawat Asad javed ,industry,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,rawat,punjab,Yes,None
+17,Asif faislabad,trader,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,faisalabad,punjab,Yes,None
+18,Asif Prime Jodia,trader,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+19,Asif sohrab goth ,trader,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+20,Bhaya Food N.Karachi,industry,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+21,Bilal fsb,trader,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,faisalabad,punjab,Yes,None
+22,Bin Dawood Lhr,trader,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,lahore,punjab,Yes,None
+23,Feroz Food,industry,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+24,Food zone,restaurant,sultan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+25,Gohar Mardan,trader,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,mardan,kpk,Yes,None
+26,Golden Food,industry,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+28,Haji noor muhammad faislabad,trader,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,faisalabad,punjab,Yes,None
+29,Kamran Mardaan,trader,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,mardan,kpk,Yes,None
+30,Lotte Kolson,industry,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+31,Multi Link,industry,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+32,National Foods,industry,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+33,Prime International jodia (Munaf),trader,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+34,Rasul Flour Mills Bake Parlor,industry,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+35,Riaz Faislabad,trader,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,faisalabad,punjab,Yes,None
+36,S.M Irfan,trader,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+37,Suddle Foods faislabad masroor,trader,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,faisalabad,punjab,Yes,None
+38,Volka Food International,industry,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,multan,punjab,Yes,None
+40,chicken Zam Zam Chemical jodia bazar,trader,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+41,AL Habib CHOCO,trader,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+42,Abdul Rehman,trader,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+43,Adil shah quetta,trader,sultan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,quetta,baluchistan,Yes,None
+44,Ahmed Dairy Mehmood Rawalpindi,trader,sultan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,pindi,punjab,Yes,None
+45,cream akhter ( shafkat),trader,sultan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+46,Akhter Bhawalnugar,trader,sultan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,bhawalnugar,punjab,Yes,None
+47,Al Kabeer,restaurant,sultan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+48,Shazad Rahim Yar khan,trader,sultan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,raheem yar khan,punjab,Yes,None
+49,Sufi sargodha Tahir,trader,sultan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,sarghoda,punjab,Yes,None
+50,S & W marketing,distributor,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,pindi,punjab,Yes,None
+51,Sultan mardan,trader,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,mardan,kpk,Yes,None
+52,Agha khan chaman,trader,sultan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,chaman,baluchistan,Yes,None
+53,Akber Lodhi Multan,trader,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,multan,punjab,Yes,None
+54,Asad Ent Tariq road Khi,distributor,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+55,Asad Ullah khan peshawar,trader,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,peshawar,kpk,Yes,None
+56,Atique Disturber Khi,distributor,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+57,Saleem pindi,distributor,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,pindi,punjab,Yes,None
+58,Haram traders shahfaisal,distributor,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+59,Hussain shahfaisal,distributor,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+60,Jhandiala Traders Rwp,distributor,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,pindi,punjab,Yes,None
+61,MOSA (Atique Disturber Khi),distributor,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+62,N S Orangi Town,distributor,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+63,Prime Marketing Wali Khi,distributor,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+64,Rehman marketing Queta,distributor,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,quetta,baluchistan,Yes,None
+65,Rizwan D.I.K,distributor,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,dera ismail khan,kpk,Yes,None
+66,Shujat Buferzone Khi,distributor,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+68,Take Care Orangi Town,distributor,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+69,Tariq Trader PSWR,distributor,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,peshawar,kpk,Yes,None
+70,ZIA traders sawat,trader,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,sawat,kpk,Yes,None
+71,Hanif Food Industries ,exporter,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,Korangi Karachi 
+72,Imtiaz store faisalabad,LMT,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,faisalabad,punjab,No,None
+73,Imtiaz store gujranwala,LMT,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,gujranwala,punjab,No,None
+74,Imtiaz store karachi,LMT,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+78,Shaaf Trading co Lahore,distributor,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,lahore,punjab,Yes,None
+79,Ahmed Traders Hydrabad,distributor,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,hyderabad,sindh,Yes,None
+80,Corolla Traders Sialkot,distributor,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,sialkot,punjab,Yes,Sialkot 
+81,J A  Traders Sarghoda,distributor,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,sarghoda,punjab,Yes,None
+82,Hafiz Junaid Traders Multan,distributor,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,multan,punjab,Yes,None
+83,Imran Traders Jhang,distributor,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,jhang,punjab,Yes,None
+84,Rehmat Traders Azad Kashmir,distributor,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,kashmir,punjab,Yes,None
+85,Sales Links / Tariq fsb,distributor,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,faisalabad,punjab,Yes,Faisalabad
+87,Shaban Traders Toba tek singh,distributor,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,toba tak singh,punjab,Yes,None
+88,Sher-E-Rabani Traders sheikhupura,distributor,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,sheikhpura,punjab,Yes,None
+89,Waqar Traders Gujrat,distributor,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,gujrat,punjab,Yes,None
+90,Zain Traders Gujrawala,distributor,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,gujranwala,punjab,Yes,None
+91,Saram Traders,distributor,adil,ranaabdulsattar725@gmail.com,0,03082575724,30,No,0,101002001,Account Receivable,-,None,None,None,jhelum,punjab,Yes,sarae alamgir
+92,Sohny Traders (Mushtaq),distributor,adnan,none@gmail.com,0,030000000,30,No,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,No,PLo123
+93,Sadrudin impres market,trader,adil,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,PLo123
+94,Qundal Restaurant,restaurant,sultan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,PLo123
+95,Ghani Traders (Naeem JODIA ),trader,adnan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,PLo123
+96,Rosati restaurant,restaurant,sultan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,PLo123
+97,Saeed & Sons hyd,distributor,adil,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,hyderabad,sindh,Yes,PLo123
+98,Shahab Multan Cake Gel,trader,adnan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,multan,punjab,Yes,PLo123
+99,Cake Jel Hasan multan,trader,adnan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,multan,punjab,Yes,PLo123
+100,inter foods,industry,adnan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,PLo123
+101,S.M Food,industry,adnan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,multan,punjab,Yes,PLo123
+102,sharukh multan,trader,adnan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,multan,punjab,Yes,PLo123
+103,Cash Customer,trader,adnan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,PLo123
+104,Chicken A.One,trader,adnan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,PLo123
+105,abid designer,trader,adnan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,PLo123
+107,Asif Chatti,trader,adnan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,PLo123
+108,asif multan,trader,adnan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,multan,punjab,Yes,PLo123
+109,asif sohrab goth 03212884214,trader,adnan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,PLo123
+110,Gufran Mardan,trader,adnan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,mardan,kpk,Yes,PLo123
+111,Imtiaz karimabad,trader,sultan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,PLo123
+112,Imtiaz sb,trader,adnan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,multan,punjab,Yes,PLo123
+113,Mushtaq raza,trader,adnan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,PLo123
+114,Prime (munaf )jodia,trader,adnan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,PLo123
+116,Waqar Nisar Multan,trader,adnan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,multan,punjab,Yes,PLo123
+119,ahmed dairy mehmood pindi,trader,sultan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,pindi,punjab,Yes,PLo123
+120,akhter ( shafkat),trader,sultan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,PLo123
+121,cash partys,trader,adnan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,No,PLo123
+122,Hanif Limarket,trader,sultan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,PLo123
+123,Nisar Sarghodha,trader,sultan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,sarghoda,punjab,Yes,PLo123
+124,Omega Dairy,trader,sultan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,PLo123
+125,Raja Zubair Chakwl,trader,sultan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,chakwal,punjab,Yes,PLo123
+126,sample,trader,sultan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,PLo123
+127,Shafiq Sahiwal,trader,sultan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,sahiwal,punjab,Yes,PLo123
+128,Shafkat Khanpur,trader,sultan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,khanpur,punjab,Yes,PLo123
+129,Shaheen dairy,trader,sultan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,PLo123
+130,sultan Bread Crumbs,trader,sultan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,No,PLo123
+131,Tahir Bilal sargodha,trader,sultan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,sarghoda,punjab,Yes,Sarghoda 
+132,Zahid Sale,trader,adnan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,PLo123
+133,Discovery Ventures,trader,sultan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,PLo123
+134,Master Food,industry,adnan,asd@nxmnz.cm,31212,030000,30,No,0,101002001,Account Receivable,212,None,None,None,nowshehra,kpk,Yes,Lahore  
+135,Ginsoy Sindhi Muslim,restaurant,sultan,none@gmail.com,(021)34398831-35, 0334-3555606,30,Yes,0,101002001,Account Receivable,456,None,None,None,karachi,sindh,Yes,"122, Block-A, S.M.C.H.S"
+136,Rashid Ali Rawalpindi,trader,adnan,none@gmail.com,31,0300-0000000,30,No,0,101002001,Account Receivable,0278930-0,None,None,None,pindi,punjab,Yes,Rawalpindi
+137,Ginsoy DHA,restaurant,sultan,none@gmail.com,021-35345362-6,0334-3555606,30,No,0,101002001,Account Receivable,77787877,None,None,None,karachi,sindh,Yes,"29c, Khayaban-e-Shahbaz, Phase 6, DHA"
+138,Sultan Office,trader,sultan,syedsultan268@gmail.com,02136987456,0313-9280417,30,No,0,101002001,Account Receivable,8888888,None,None,None,karachi,sindh,No,R-86 Block 2
+139,BVank Al habib Limited,trader,adnan,bah@gmail.com,021369745,03000000000,30,No,0,101001002007,bank al habib allama iqbal road branch,123456787,None,None,None,karachi,sindh,Yes,1026 Allama iqbal Road branch 86-s Block 2 PECHS Karachi
+140,Sultan Crackers,trader,sultan,abc@gmail.com,0,03009280417,30,No,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,No,"karachi, pakistan"
+141,Sultan Chicken powder,trader,sultan,abc@gmail.com,0,03009280417,30,No,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,No,"karachi, pakistan"
+142,Sultan Whip Cream,trader,sultan,abc@gmail.com,0,03009280417,30,No,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,No,"karachi, pakistan"
+143,Asgher Lahore,trader,adil,None@gmail.com,0213098765,03000000000,30,No,0,101002001,Account Receivable,129865-99,None,None,None,lahore,punjab,Yes,Lahore
+144,Abdullah Gawader ,distributor,adnan,None@gmail.com,0213432123,03000000000,30,No,0,101002001,Account Receivable,09876414,None,None,None,gawader,baluchistan,Yes,Sitara Balochistan Goods Gate # 1 Gali # 04
+145,IMTIAZ KHATTAK,trader,adnan,ABC@GMAIL.COM,-,-,30,No,0,401002,Sales,-,None,None,None,peshawar,kpk,Yes,"KARAK, KPK"
+146,UMER TRADERS LAHORE,trader,adnan,ABC@ABC.COM,-,-,30,No,0,401002,Sales,-,None,None,None,lahore,punjab,Yes,"LAHORE, PAKISTAN"
+147,YUM RESTAURANT ,restaurant,adnan,waqar@yumpakistan.pk,0,03018418424,30,No,0,401002,Sales,-,None,None,None,lahore,punjab,Yes,Pakistan 
+148,CHINA CASTLE,restaurant,sultan,ABC@ABC.COM,-,0,30,No,0,401002,Sales,-,None,None,None,karachi,sindh,Yes,"NEW TOWN KARACHI, PAKISTAN"
+149,SULEMAN FOODS,industry,adnan,ABC@ABC.COM,0,0,30,No,0,401002,Sales,-,None,None,None,multan,punjab,Yes,"MULTAN, PAKISTAN"
+150,SPAR Super Store,LMT,sultan,ABC@ABC.COM,-,-,30,No,0,401002,Sales,-,None,None,None,karachi,sindh,Yes,"NEWTOWN, KARACHI"
+151,Rehan Fishery,trader,adnan,ABC@ABC.COM,-,03332345207,30,No,0,401002,Sales,-,None,None,None,karachi,sindh,Yes,"Fishery, karachi"
+152,Chemicalwala corporation,trader,adnan,ABC@ABC.COM,-,03328727300,30,No,0,401002,Sales,-,None,None,None,karachi,sindh,Yes,"jodia bazar, karachi"
+153,pak trad ,trader,adnan,abc@abc.com,-,-,30,No,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,karachi pakistan
+154,Kamran quetta,trader,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,quetta,baluchistan,Yes,None
+155,cream saqib jehlum,trader,sultan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,jehlum,punjab,Yes,None
+156,Abdullah Sargodha,distributor,adil,None@gmail.com,-,03000000000,30,No,0,101002001,Account Receivable,-,None,None,None,sarghoda,punjab,Yes,"sargodha, Pakistan"
+157,Zam Zam Chemical Faisalabad,trader,adnan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,faisalabad,punjab,Yes,None
+158,Quality Store Lahore,distributor,adil,abc@abc.com,-,-,30,No,0,101002001,Account Receivable,-,None,None,None,lahore,punjab,Yes,Lahore
+159,Noman pindi,trader,adnan,abc@abc.com,-,03315552522,30,No,0,101002001,Account Receivable,-,None,None,None,pindi,punjab,Yes,Rawalpindi
+160,Tariq Gujranwala,trader,adnan,abc@abc.com,-,-,30,No,0,101002001,Account Receivable,-,None,None,None,gujranwala,punjab,Yes,gujranwala
+161,Chicken Khurram,trader,adnan,abc@abc.com,-,03333575124,30,No,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,karachi
+162,Abdul Samad,trader,adnan,abc@abc.com,-,03229992345,30,Yes,0,101002001,Account Receivable,-,None,None,None,lahore,punjab,Yes,Lahore
+163,mian Izhar traders sheikhupura,distributor,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,sheikhpura,punjab,Yes,None
+164,Bahia Pizza Gujrat Naeem ,restaurant,adnan,abc@abc.com,-,03006205522,30,Yes,0,101002001,Account Receivable,-,None,None,None,gujrat,punjab,Yes,Gujrat 
+165,Azmatullah Gulistan e Johar,trader,adnan,abc@abc.com,-,-,30,No,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,gulistan e johar 
+166,Ahmed Impex,trader,adnan,ahmedallawala@gmail.com,-,-,30,No,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,"Karachi, Pakistan"
+167,Ginsoy Gulshan,restaurant,sultan,none@gmail.com,021-35345362-6,0334-3555606,30,No,0,101002001,Account Receivable,77787877,None,None,None,karachi,sindh,Yes,"Gulshan, Karachi"
+168,Kundan Resturant ,restaurant,sultan,abc@abc.com,-,-,30,No,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,Shikharpur
+169,Fira Ent ,distributor,adil,abc@abc.com,-,03,30,Yes,0,101002001,Account Receivable,-,None,None,None,wah cant,punjab,Yes,Wah Cant
+170,J J Enterprises Attock ,distributor,adil,abc@abc.com,-,03,30,Yes,0,101002001,Account Receivable,-,None,None,None,attock,punjab,Yes,Attock 
+171,Waseem And SonsRawalpindi,trader,adil,abc@abc.com,-,03,30,Yes,0,101002001,Account Receivable,-,None,None,None,pindi,punjab,Yes,Dalgaran Bazar Rawalpindi 
+172,Maj Flavor,industry,adnan,abc@abc.com,03213633925,-,30,No,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,"karachi, pakistan"
+173,Marriot Hotel,restaurant,sultan,abc@abc.com,-,-,30,No,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,"karachi, pakistan"
+174,Ginsoy Hyderi ,restaurant,sultan,none@gmail.com,021-35345362-6,0321,30,No,0,101002001,Account Receivable,77787877,None,None,None,karachi,sindh,Yes,"Gulshan, Karachi"
+175,Chase UP Multan,LMT,sultan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,multan,punjab,Yes,None
+176,Sheikh Noman Pindi,trader,adnan,abc@abc.com,-,0321,30,Yes,0,101002001,Account Receivable,-,None,None,None,pindi,punjab,Yes,Rawalpindi 
+177,Muhammad Ismail Bahawalpur,trader,adnan,none@gmail.com,021345697877,0312-1234567,30,No,0,101002001,Account Receivable,12345-987,None,None,None,bahawalpur,punjab,Yes,Bahawalpur (Mehmood goods Karachi)
+178,Chase UP Faislabad,LMT,sultan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,faisalabad,punjab,Yes,None
+179,Imran Chawala,trader,adnan,abc@abc.com,-,0321,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,Karachi
+180,Chase Omega,LMT,sultan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,None
+181,AUK Khizer,trader,adil,abc@abc.com,-,0321,30,Yes,0,101002001,Account Receivable,-,None,None,None,lahore,punjab,Yes,Lahore
+182,Bilal Traders Gojra,trader,adil,none@gmail.com,-,-,30,No,0,101002001,Account Receivable,-,None,None,None,gojra,punjab,Yes,none
+183,Mehar Traders Shah Kot,distributor,adil,none@gmail.com,-,-,30,No,0,101002001,Account Receivable,-,None,None,None,shah kot,punjab,Yes,-
+184,Sabir Trading abbottabad,distributor,adil,none@gmail.com,-,-,30,No,0,101002001,Account Receivable,-,None,None,None,abbotabad,kpk,Yes,-
+185,Ginsoy Prime,restaurant,sultan,none@gmail.com,-,-,30,No,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,-
+186,yum closed ,restaurant,sultan,none@gmail.com,-,-,30,No,0,101002001,Account Receivable,-,None,None,None,lahore,punjab,No,-
+187,Riaz Lahore,trader,adnan,none@gmail.com,-,-,30,No,0,101002001,Account Receivable,-,None,None,None,lahore,punjab,Yes,-
+188,Ajwa Traders Sahiwal,distributor,adil,abc@abc.com,-,0321,30,Yes,0,101002001,Account Receivable,-,None,None,None,sahiwal,punjab,Yes,Sahiwal
+189,Chase Up Karachi,LMT,sultan,none@gmail.com,-,-,30,No,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,-
+190,Hussain Traders Orangi Town,distributor,adil,abc@abc.com,-,0321,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,Orangi Town Karachi
+191,Rizwan Traders Jarnawala,distributor,adil,abc@abc.com,-,0321,30,Yes,0,101002001,Account Receivable,-,None,None,None,jarnawala,punjab,Yes,Jarnawala
+192,Anees Shoaib Supplier ,trader,adnan,abc@abc.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,Karachi 
+193,Zahid Empress Market ,trader,sultan,abc@abc.com,0,0321,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi
+194,Suspense Account,trader,adnan,abc@abc.com,0,0321,30,Yes,0,101001002009,Opening Balances,0,None,None,None,karachi,sindh,Yes,Karachi
+195,Adnan Traders Gilgit ,distributor,adil,abc@abc.com,0,0321,30,Yes,0,101002001,Account Receivable,0,None,None,None,gilgit,kpk,Yes,Gilgit 
+196,Khan Food Karachi,industry,adnan,abc@abc.com,0,0321,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,S.I.T.E. Karachi
+197,RHO Lab,trader,adnan,none@gmail.com,-,-,30,No,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,-
+198,Adil Zia,trader,adnan,none@gmail.com,-,-,30,No,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,-
+199,Saim Scourer ,trader,adnan,abc@abc.com,0,0311 2359696,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+200,Exporter Manzoor,exporter,adnan,abc@abc.com,0,0321,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Shershah SITE Karachi 
+201,Cake Gel ShahRukh Multan,trader,adnan,abc@abc.com,0321,0321,30,Yes,0,101002001,Account Receivable,0,None,None,None,multan,punjab,Yes,Multan
+202,Faisal But Lahore,trader,adnan,abc@abc.com,0321,0321,30,Yes,0,101002001,Account Receivable,0,None,None,None,lahore,punjab,Yes,Lahore
+203,Karam Food Rahim Yar Khan,trader,adnan,abc@abc.com,0321,0321,30,Yes,0,101002001,Account Receivable,0,None,None,None,rahim yar khan,punjab,Yes,Rahim Yar KHan 
+204,Imran Sethi Peshawar ,trader,adnan,abc@abc.com,0321,0321,30,Yes,0,101002001,Account Receivable,0,None,None,None,peshawar,kpk,Yes,Peshawar 
+205,sakran rent (shafi gluco ),trader,adnan,None@gmail.com,-,-,30,No,0,101002001,Account Receivable,-,None,None,None,hub,baluchistan,Yes,hub hite
+206,Ramzan Spices Lahore ,trader,adnan,abc@abc.com,0,0321,30,Yes,0,101002001,Account Receivable,0,None,None,None,lahore,punjab,Yes,Lahore 
+207,Waseem Traders Hari Pur,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,hari pur,punjab,Yes,Hari Pur Hazara 
+208,Latief Traders Faisalabad ,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,faisalabad,punjab,Yes,Faisalabad 
+209,Canteen Store Department,LMT,sultan,none@gmail.com,-,-,30,No,0,101002001,Account Receivable,15,None,None,None,karachi,sindh,Yes,-
+210,Owais Traders Mianwali,distributor,adil,abc@abc.com,0321,0321,30,Yes,0,101002001,Account Receivable,0,None,None,None,mianwali,punjab,Yes,Awan Chowk Muslim Bazar Mianwali
+211,Zee Food Karachi,industry,adnan,abc@abc.com,0321,0321,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,SITE Karachi 
+212,Ashraf Rawalpindi C/o Adil office,trader,adil,abc@abc.com,0321,0321,30,Yes,0,101002001,Account Receivable,0,None,None,None,pindi,punjab,Yes,Rawalpindi 
+213,Krispy Foods Rawalpindi ,industry,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,pindi,punjab,Yes,Rawalpindi
+214,Bismillah Enterprises,distributor,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,quetta,baluchistan,Yes,quetta
+215,Sultan Cake Jel / Jelly,trader,sultan,abc@gmail.com,0,03009280417,30,No,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,No,"karachi, pakistan"
+216,Khalild Masala C/o Adil  ,trader,adil,abc@abc.com,0,0,30,No,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,North karachi
+217,Sarfraz Traders Chichawatni,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,chichawatni,punjab,Yes, Chichawatni
+218,UDN Distributor Islamabad,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,islamabad,punjab,Yes,Islamabad 
+219,Al Saeed Corp Bahawalpur ,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,bahawalpur,punjab,Yes,Ghala Mandi   Bahawalpur 
+220,Anus Hanif Jodia ,distributor,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,No,Jodia Bazar Karachi 
+221,Rehmat Quetta,trader,sultan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,quetta,baluchistan,Yes,Quetta 
+222,Hassan traders Bahawalpur ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,bahawalpur,punjab,Yes,Bahawalpur 
+223,Ibrahim Rangwalay Multan ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,multan,punjab,Yes,Multan 
+224,Zeeshan Peshawar ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,peshawar,kpk,Yes,Peshawar 
+225,Sultan Distributor ,distributor,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,No,Office Karachi 
+226,Makkah Traders Sameer ,trader,adnan,abc@abc.com,0,03433998528,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Makkah Traders II chundrigar road karachi
+227,Paras Traders ,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+228,Waseem Cracker Hyderabad ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,hyderabad,sindh,Yes,Hyderabad 
+229,Hamza Faisalabad ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,faisalabad,punjab,Yes,Faisalabad 
+230,Waris S & W marketing Rawalpindi ,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,pindi,punjab,Yes,Rawalpindi 
+231,Aysha Traders Lahore,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,lahore,punjab,Yes,Lahore 
+232,Siddiq Afg Exp,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,afg,afg,Yes,Peshawar 
+233,Rafqa Traders ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Jodia Bazar Karachi 
+234,Gul Gee Distributor ,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+235,Sajid Ali Mardan ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,mardan,kpk,Yes,Mardan 
+236,Wonder Amantes Trading & Company ,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,lahore,punjab,Yes,Al markaz plaza shop # 2 near masjid ghosia rizwia main market canal park gulberg lahore phone 0423-5754427 Adda Name Rana Ishtia goods 
+237,Best Solution Rawalpindi,distributor,adil,abc@abc.com,0,0310-5000551,30,Yes,0,101002001,Account Receivable,0,None,None,None,pindi,punjab,Yes,Office# 265 Banni Chowk Rawalpindi 0331-5550143
+238,Ginsoy Gulistan Johar ,restaurant,sultan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+239,M.Haji Pinsari,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Deara Ismail Khan 
+240,Unika Industries Multan ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,multan,punjab,Yes,MUltan 
+241,Sanaullah Rang Walay Mardan ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,mardan,kpk,Yes,Mardan 
+242,Daraz ,LMT,sultan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+243,Malik Traders Faisal,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+244,Jawaid Paper Wala ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+245,Horeica Food Lahore  ,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,lahore,punjab,Yes,Lahore 
+246,Sunder Food,industry,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+247,Rehman Traders Rawalpindi ,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,pindi,punjab,Yes,Rawalpindi 
+248,Pearl Confectionery Karachi ,industry,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+250,Sheikh Enterprises Bahawalpur ,distributor,adil,abc@abc.com,0,0304-8796733,30,Yes,0,101002001,Account Receivable,0,None,None,None,bahawalpur,punjab,Yes,Bahawalpur 
+251,Asia Traders Lahore,distributor,adil,abc@abc.com,0,0321-4226637,30,Yes,0,101002001,Account Receivable,0,None,None,None,lahore,punjab,Yes,5-TARIQ street opp. 185D Block D Rehman pura Ichra lahore CNIC 35202-8468394-9
+252,Itefaq Marketing Lahore ,distributor,adil,abc@abc.com,0,0321-7275671,30,Yes,0,101002001,Account Receivable,0,None,None,None,lahore,punjab,Yes,Mr.fawad Sahab Akber Mandi Ganda Nala Lahore
+253,Multan Khan Food,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,multan,punjab,Yes,Multan
+254,Bilal  I+G ,trader,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+255,Power Chemical Faisalabad ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,faisalabad,punjab,Yes,Faisalabad 
+256,Imran Achari Jodia ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+257,silat impex,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+258,Nazeer Sohrab Goth,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,SOhrab Goth Karachi 
+259,Zeeshan D I Khan,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,dera ismail khan,kpk,Yes,D I Khan 
+260,shamama ,trader,adnan,asd@nxmnz.cm,31212,030000,30,No,0,101002001,Account Receivable,212,None,None,None,karachi,sindh,Yes,shahrah e faisal
+261,Umer Saeed,industry,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+262,Umer Food Lahore ,industry,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,lahore,punjab,Yes,Lahore 
+263,Taj Confectionery ,industry,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+264,Shahid Multi Chem ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+265,Kamil Choco,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+266,Neha Food Karachi,industry,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,SITE Karachi 
+267,Chicken Mohammad Jaweed,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,SITE Karachi 
+268,AL Noor Traders Layyah ,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,layyah,punjab,Yes,Layyah 
+269,Talbeena Industries Multan,industry,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,multan,punjab,Yes,Multan 
+270,Azhar Brothers Jehlum ,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,jehlum,punjab,Yes,Jehlum 
+271,Rizwan Cracker Bahawalpur ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,bahawalpur,punjab,Yes,Bahawalpur 
+272,RehmatuLlah Afghinistan ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,afg,afg,Yes,MazharSharief Afghanistan 
+273,Universal Foods Multan  ,industry,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,multan,punjab,Yes,Multan 
+274,Mars Int Abdul Latief ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi
+275,Lahore Pak Traders ,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,lahore,punjab,Yes,Lahore 
+276,Nadeem Kutchi Gali ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Jodia Bazar Karachi 
+277,Ramzan Traders Jhang ,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,jhang,punjab,Yes,Jhang 
+278,Pak Kashmir Foods Islamabad,industry,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,islamabad,punjab,Yes,Islamabad 
+279,Abdullah Peshawar ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,peshawar,kpk,Yes,Peshawar 
+280,Hafiz Traders Nankari Bazar ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,pindi,punjab,Yes,Rawalpindi 
+281,Ginsoy Bahria Town,restaurant,sultan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Bahria Town Karachi 
+282,Asim Shah Multan,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,multan,punjab,Yes,Multan
+283,Anus Jamsheed Road ,LMT Distributor ,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Jamheed Road Karachi 
+284,Husnain Traders Rawalpindi ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,pindi,punjab,Yes,Rawalpindi 
+285,Imtiaz Lahore,trader,adnan,none@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,lahore,punjab,Yes,PLo123
+286,Zohaib ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,islamabad,punjab,Yes,Rawat 
+287,SIlver Lake Food (Hattar) ,industry,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,hattar,punjab,Yes,Hattar 
+288,Brothers Enterprise,industry,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Hattar 
+289,Giggly Foods Ltd ,industry,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,multan,punjab,Yes,Hattar 
+290,Waqar Chicken ,trader,adnan,abc@abc.com,0,0,30,No,0,301001005002,Accounts Payable (International Suppliers),0,None,None,None,karachi,sindh,Yes,SITE Karachi 
+291,Qadri Traders Kasur ,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,kasur,punjab,Yes,Kasur 
+292,Hadi Bahi ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,quetta,baluchistan,Yes,Quetta Walay 
+293,Danyal Malik Peshawar ,trader,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,peshawar,kpk,Yes,Peshawar 
+294,Saifee Brothers ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Hattar 
+295,Abdul Rehman Lahore ,trader,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,lahore,punjab,Yes,Khalid trader  32 chudery colony Samanabad Lahore
+296,Brisko Bread cake jel ,industry,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,SITE Karachi 
+297,Sadruddin Empress Market,trader,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Empress Market Karachi
+298,ABC Traders Hyderabad,trader,adil,abc@c.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,hyderabad,sindh,Yes,Hyderabad
+299,Reda Chemical,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi
+300,Atta Mohammad C/O Ghufran Mardan ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Orangi Town Karachi
+301,Mohsin Faisalabad C/o Atta mohammad ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,faisalabad,punjab,Yes,Faisalabad
+302,Azhar Shehzad Multan,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,multan,punjab,Yes,Multan 
+303,Braga,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,c/o zeeshan
+304,I B Traders Gernal Merchants ,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,sawat,kpk,Yes,Mingora Sawat 
+305,Rehan Gernal Store Rajanpur,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,rajanpur,punjab,Yes,Rajanpur
+306,Khalid Paper Lahore ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,lahore,punjab,Yes,Lahore
+307,Grocer Pvt Ltd Kot Lakhpat ,LMT,sultan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,kot lakhpat,punjab,Yes,Kot Lakh Pat 
+308,Bilal Bread Crumb Fishree,trader,sultan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+309,Sajjad Traders Sahiwal ,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,sahiwal,punjab,Yes,Sahiwal 
+310,S A Traders Distributor ,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,R-116 Ahsan A Bad near Quetta Hotel Gali number 3 Karachi 
+311,Ali Scourer ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+312,Ayub Papar ,trader,adnan,abc@abc.com,0,0,30,No,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+313,City Marketing Rawalpindi ,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,pindi,punjab,Yes,Rawalpindi 
+314,Suneel Kumar Sukkur ,trader,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,sukkur,sindh,Yes,Sukkar 
+315,Miss Yasmeen,trader,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+316,Rana Altaf ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Hyderabad 
+317,Zubair Enterprises D G Khan,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,d g khan,punjab,Yes,D G Khan 
+318,Faman Enterprise ,exporter,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+319,Al Hadi Distributor Sukkur ,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,sukkur,sindh,Yes,Sukkur
+320,evergreen traders gujrat,distributor,adil,abc@abc.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,gujrat,punjab,Yes,Gujrat pakistan
+321,Hafiz Traders Wazirabad ,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,wazirabad,punjab,Yes,Gujrat 
+322,Hobnob Korangi ,restaurant,sultan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi
+323,Baluchistan Chemical Quetta ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,quetta,baluchistan,Yes,Quetta 
+324,Super Food Mominabad ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes, Karachi 
+325,Lasani Traders Arifwala,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,arifwala,punjab,Yes,ArifWala 
+326,Online WhatsApp Order,LMT,sultan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes, Karachi 
+327,Mehran Essence Jodia Bazar ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+328,Bisconni Hub ,industry,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,hub,baluchistan,Yes,Hub
+329,Shan Traders Bahawalpur ,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,bahawalpur,punjab,Yes,Bahawalpur 
+330,Fort Traders Multan ,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,multan,punjab,Yes,Multan
+331,Imtiaz Store Lahore ,LMT,sultan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,lahore,punjab,Yes,Lahore 
+332,Friends Enterprise Bahawalpur ,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,bahawalpur,punjab,Yes,Bahawalpur 
+333,Basharat Ali ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Rawalpindi 
+334,Khurram Cake jel Liaqutabad ,industry,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Liaqutabad Karachi
+335,Khurram cracker Lahore ,trader,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,lahore,punjab,Yes,Lahore 
+336,Exporter Wasif ,exporter,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+337,Faheem Distributor Rahim Yar Khan ,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,rahim yar khan,punjab,Yes,Rahim Yar Khan 
+339,Exporter Zaiqa Food  ,exporter,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+340,Al Karim Marketing Services Hunza ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,gilgit,kpk,Yes,Hunza 
+341,Qasim sb ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,afg,afg,Yes,A
+342,Magson food Rawat ,industry,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,rawat,punjab,Yes,Rawat 
+343,Creative food Rawat,industry,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,rawat,punjab,Yes,Rawat
+344,Abdul Wali Lahore ,trader,adil,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,lahore,punjab,Yes,Lahore 
+345,Pioneer Traders Guj,distributor,adil,abc@abc.com,0,0345-1234597,30,Yes,0,101002001,Account Receivable,0,None,None,None,gujrat,punjab,Yes,Gujranwala CNIC No# 
+346,Safa Traders Lahore,distributor,adil,abc@abc.com,0,0321-4226637,30,Yes,0,101002001,Account Receivable,0,None,None,None,lahore,punjab,Yes,Lahore
+347,Sardar Cracker c/o tariq sb  Lahore ,trader,adnan,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,lahore,punjab,Yes,Lahore 
+348,Ahmed Mehtab Essence House Lahore ,trader,adnan,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,lahore,punjab,Yes,Lahore 
+349,Imtiaz Store Islamabad,LMT,sultan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,islamabad,punjab,Yes,Islamabad 
+350,AAHH Trading Company ,trader,adil,None@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+351,Naveed Rungwalay Multan ,trader,adnan,None@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,multan,punjab,Yes,Multan 
+352,Al Rehman Cracker Rawalpindi ,distributor,adil,None@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,pindi,punjab,Yes,Rawalpindi 
+353,Taj Palace Sialkot ,trader,adnan,None@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,sialkot,punjab,Yes,sialkot 
+354,Yameen NawabShah ,distributor,adil,None@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,nawab shah,sindh,Yes,Nawabshah 
+355,Idress and Sons Chemical Rawalpindi,trader,adil,None@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,pindi,punjab,Yes,Rawalpindi 
+356,funchies Wali Traders Sialkot ,MingalzOnly,nadeem,None@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,sialkot,punjab,Yes,Sialkot 
+357,funchies Al Hamd Traders Multan  ,MingalzOnly,nadeem,None@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,multan,punjab,Yes,Multan 
+358,khoshk Doodh Akbari Mandi Lahore ,distributor,adil,None@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,lahore,punjab,Yes,Akbri Mandi Lahore 
+359,diamond super store,LMT,sultan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,block-E north nazimabad
+360,funchies Bismillah Traders Lahore ,MingalzOnly,adnan,None@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,lahore,punjab,Yes,Lahore 
+361,Jawaid Miandad Turbat ,trader,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,Turbat,baluchistan,Yes,Turbat 
+362,Uni Foods,industry,adnan,None@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,hub,baluchistan,Yes,karachi 
+363,LC Distributors gujrat,distributor,adil,None@gmail.com,0,03216299099,30,Yes,0,101002001,Account Receivable,0,None,None,None,gujrat,punjab,Yes,Naseem Plaza Near usman plaza link jinnah road gujrat 
+364,Ayub Brothers mirpur,distributor,adil,None@gmail.com,0,03005160142,30,Yes,0,101002001,Account Receivable,0,None,None,None,mirpur,punjab,Yes,"shop no 409,410 sector b-1 nanji mirpur AJK"
+365,hassan center of chemical,trader,adnan,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,0
+366,funchies umeer traders ,MingalzOnly,nadeem,None@gmail.com,0,0300 4280495,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,"House no. A88
+Ali all murtazza masjid 
+Gilanabad"
+367,funchies Rana ENTR  ,MingalzOnly,nadeem,None@gmail.com,0,0313-2712630,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,675/375 fatima jinnah colony jamshed road#3 karachi
+368,funchies Al waheeb Marketing ,MingalzOnly,nadeem,None@gmail.com,0,0316-8661553,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,"PLOT#RS-12,ST-7,SECTOR 5A/2 NEAR 4K CHOWRANGI KARACHI"
+369,All csd ,LMT,sultan,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,0
+370,Gul Foods karimabad,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+371,sky traders rwl,distributor,adil,None@gmail.com,0,0333-5103921,30,Yes,0,101002001,Account Receivable,0,None,None,None,pindi,punjab,Yes,"w-117&118 naranki bazar, rawalpindi"
+372,Al fatah shopping mall,LMT,sultan,None@gmail.com,-,0,30,Yes,0,101002001,Account Receivable,-,None,None,None,lahore,punjab,Yes,"attari darbar ,main ferrozepur road lhr pakistan"
+373,funchies All shahzad traders,MingalzOnly,nadeem,None@gmail.com,0,0315-2424261,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,"House no. 323 A
+Makhdom shah colony 
+Gali number= 05 
+Sector = 11 1/2 
+Near safaid Chowk 
+Organgi Town "
+374,hyderi super market,LMT,sultan,None@gmail.com,-,0,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,0
+375,funchies tariq traders ,MingalzOnly,nadeem,None@gmail.com,0,0315 2656128,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,"Shumarkit Azeem plaza 
+Near Babuddin Masjid 
+Jaddha Arcade me neche shop no.2 
+Garden West "
+376,funchies tahir traders peshawar,MingalzOnly,nadeem,None@gmail.com,0,03091454541,30,Yes,0,101002001,Account Receivable,0,None,None,None,peshawar,kpk,Yes,"Yakatoot Peshawar city 
+"
+377,rehman Traders Gujrawala,distributor,adil,None@gmail.com,-,0300-6433567,30,Yes,0,101002001,Account Receivable,-,None,None,None,gujranwala,punjab,Yes,"race course road fareed town near purani chowrangi pasroor road,gujranwala"
+378,Zia Sb Kabul,trader,adnan,None@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,afg,afg,Yes,Kabul 
+379,Yusuf store akbari market,trader,adil,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,lahore,punjab,Yes,"akbri market
+"
+380,funchies aisha traders shehzadpur,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,shehzad pur,sindh,Yes,"shehzadpur
+"
+381,funchies paradise .cof hydrabad,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,hyderabad,sindh,Yes,"hydrabad 
+"
+382,funchies masham conf sanghar,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,sanghar,sindh,Yes,"sanghar
+"
+383,funchies ghosia traders mirpurkhas,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,mirpurkhas,sindh,Yes,"back memon plaza mirpurkhas
+"
+384,funchies saleem sinjharo,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,sinjharo,sindh,Yes,"sinjharo
+"
+385,funchies  Ab hafeez traders umerkot,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,umerkot,sindh,Yes,umerkot
+386,funchies  SAS Traders tandoadam,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,tandoadam,sindh,Yes,Tandoadam 
+387,Al Ghani traders wazirabad,trader,adil,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,wazirabad,punjab,Yes,"wazirabad
+"
+388,funchies A Latif saeedabad,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,saeedbad,sindh,Yes,"town: n.saeedabad
+"
+389,funchies asif bhatti qazi ahmed,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,qazi ahmed,sindh,Yes,"qazi ahmed
+"
+390,funchies ramesh aatmaran naukot guds,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,naukot,sindh,Yes,"naukot guds
+"
+391,funchies umer traders T.A YAR,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,tando ala yar,sindh,Yes,"T.A Yar
+"
+392,Rehmat store,trader,adil,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,"quetta
+"
+393,M.Mana store,trader,adnan,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,quetta,baluchistan,Yes,"quetta
+"
+394,afzal exporter,exporter,adnan,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,"0
+"
+395,funchies ikram conf kunri,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,kunri,sindh,Yes,"kunri
+"
+396,funchies M.Ali jhudo,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,hudo,sindh,Yes,"jhudo
+"
+397,funchies khadim sobodero,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,sobodero,sindh,Yes,"sobodero
+"
+398,funchies abdul hameed ajmery sukkur,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,sukkur,sindh,Yes,sukkur
+399,funchies shahbaz conf kot ghulam muhammad,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,kot ghulam mohammad,sindh,Yes,kot ghulam muhamad
+400,Mudassar traders,trader,adil,None@gmail.com,0,0333-8403747,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,"khawajgan road gujrat
+"
+401,Makki Madni Marketing,MingalzOnly,nadeem,None@gmail.com,0,03133849778,30,Yes,0,101002001,Account Receivable,0,None,None,None,mirpur khas,sindh,Yes," House 31 Gulshan E iqbal
+Near national bank
+Hyderabad road
+"
+402,funchies R.s methi,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,methi,sindh,Yes,Near press club
+403,funchies  FM.TREDARS thattah,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,thattah,sindh,Yes,Thattah 
+404,Al-jadeed super mart,LMT,sultan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,No,None
+405,Al jadeed super mart,LMT,sultan,None@gmail.com,-,0,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,0
+406,funchies Rashid rohri,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,rohri,sindh,Yes,"rohri
+"
+407,funchies DM rohri,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,rohri,sindh,Yes,"rohri
+"
+408,funchies HP daharki,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,daharki,sindh,Yes,Daharki
+409,funchies  Raja ghotki,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,ghotki,sindh,Yes,Ghotki
+410,funchies  Nariandas Tradrs Panoaqil,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,panoaqil,sindh,Yes,Panoaqil
+411,funchies Habib. A rani pur,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,rani pur,sindh,Yes,RaniPur 
+412,funchies Faisal Chand  khipro,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,khipro,sindh,Yes,Khipro 
+413,funchies shanked Lal conf store umer kot,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,umer kot,sindh,Yes,Umer KOt 
+414,Asad Awan Islamabad ,trader,adnan,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,islamabad,punjab,Yes,"0
+"
+415,funchies  Nasir Mughal DOUR,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,dour,sindh,Yes,DOUR
+416,funchies  Shah Latif Badin ,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,badin,sindh,Yes,Badin 
+417,funchies  Abdul Hameed Somro Khair pur Mirs,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,khair pur mirs,sindh,Yes,Khair pur Mirs
+418,funchies  Ali shah Treds  Nawab Shah ,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,nawab shah,sindh,Yes, Nawab Shah 
+419,funchies  Fatima Trader Sukkur,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,sukkur,sindh,Yes,Sukkur
+420,funchies  Arshi trader Tandoalayar,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,tandoalayar,sindh,Yes,Tandoalayar
+421,bin  safeer,LMT,sultan,None@gmail.com,-,0,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,0
+422,indus,industry,adnan,None@gmail.com,-,0,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,0
+423,food inn,restaurant,sultan,None@gmail.com,-,0,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,0
+424,sky mart,LMT,sultan,None@gmail.com,-,0,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,0
+425,M.m. traders Quetta,trader,adil,None@gmail.com,0, 03130804722,30,Yes,0,101002001,Account Receivable,0,None,None,None,quetta,baluchistan,Yes,"quetta
+"
+426,Naeem Sb Buthkhela ,trader,adnan,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,"Butkhela
+"
+427,Sohny Traders karachi,distributor,adnan,none@gmail.com,0,030000000,30,No,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,PLo123
+428,icon sukkur,trader,sultan,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,"0
+"
+429,Rehman marketing lhr (karachi),LMT Distributor ,adil,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,"lhr
+"
+430,usman papad karachi,trader,adnan,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,"0
+"
+431,funchies  Sun Rise Traders ,MingalzOnly,nadeem,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,karachi
+432,Rafi Traders Lahore,trader,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,lahore,punjab,Yes,0
+433,friends distributor Rawalpindi,distributor,adil,None@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,pindi,punjab,Yes,Rawalpindi 
+434,Ginsoy Quetta,restaurant,sultan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,quetta,baluchistan,Yes,Quetta
+435,M.Sarwar traders Quetta,trader,none,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,quetta,baluchistan,Yes,Quetta
+436,AHG (PRIVATE) LIMITED,trader,adnan,abc@abc.com,0,021-35834972,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,suite 201-204 marine point clifton block-9 karachi
+437,Fazal hadi Peshawar,trader,adil,abc@abc.com,0,0311-9700052,30,Yes,0,101002001,Account Receivable,0,None,None,None,peshawar,kpk,Yes,Peshawar
+438,funchies  Tanveer Traders Wazirabad ,MingalzOnly,nadeem,None@gmail.com,0,03066881200,30,Yes,0,101002001,Account Receivable,0,None,None,None,wazirabad,punjab,Yes,Wazirabad 
+439,Funchies Makkah Traders sargodha,MingalzOnly,nadeem,None@gmail.com,0,03216004981,30,Yes,0,101002001,Account Receivable,0,None,None,None,sarghoda,punjab,Yes,Block 17 Near no 1 school Sargodha
+440,A.Z Packers (lalamusa),trader,adil,abc@abc.com,0,0333-8416106,30,Yes,0,101002001,Account Receivable,0,None,None,None,lalamusa,punjab,Yes,lalamusa
+441,bin hashim,LMT,sultan,None@gmail.com,-,0,30,Yes,0,101002001,Account Receivable,-,None,None,None,karachi,sindh,Yes,0
+442,S A Food International,exporter,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,0
+443,Trusteed Food Kpk,industry,adnan,abc@abc.com,0,0317-9797105,30,Yes,0,101002001,Account Receivable,0,None,None,None,peshawar,kpk,Yes,kpk
+444,Ghazani afg,industry,adnan,abc@abc.com,0,+93702133756,30,Yes,0,101002001,Account Receivable,0,None,None,None,afg,afg,Yes,afg
+445,Dawn Bread  (Khi),industry,adnan,abc@abc.com,0,0332-3376551,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,korangi shan industries
+446,Dawn Bread  (Islamabad) ,industry,adnan,abc@abc.com,0,0332-3376551,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,RWP
+447,javed fai,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+448,Dawn Bread  (FSL) ,industry,adnan,abc@abc.com,0,0332-3376551,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,FAISALABAD
+449,Dawn Bread  (LHR) ,industry,adnan,abc@abc.com,0,0332-3376551,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,LAHORE
+450,Saith suleman Pindi (sky traders),trader,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,pindi,punjab,Yes,rwp
+451,Amna Food Multan,industry,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,multan,punjab,Yes,multan
+452,Ajwa Food pshwr,industry,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,peshawar,kpk,Yes,pshwr
+453,Farooq Trd Ryk,industry,adnan,abc@abc.com,0,0307-7980198,30,Yes,0,101002001,Account Receivable,0,None,None,None,rahim yar khan,punjab,Yes,rahim yar khan
+454,MFZ ENTERPRISES,distributor,adil,abc@abc.com,0,0320-4444426,30,Yes,0,101002001,Account Receivable,0,None,None,None,lahore,punjab,Yes,606-R PHASE 7 DHA LHR
+455,EHTISHAM HUNZA,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,kashmir,punjab,Yes,HUNZA
+456,food panda,LMT,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,0
+457,Zakir foods(khatak),industry,adnan,abc@abc.com,0,0342-1698956,30,Yes,0,101002001,Account Receivable,0,None,None,None,khair pur mirs,kpk,Yes,khatak
+458,rehmat store hasilpur,distributor,adil,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,hari pur,sindh,Yes,"hasilpur
+"
+459,AirLift,LMT,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,0
+460,QF FOODS,industry,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,KARACHI
+461,Maaz Chicken Powder,industry,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,KARACHI
+462,SINOVO FOODS,industry,adnan,abc@abc.com,0,+92 301 8460293,30,Yes,0,101002001,Account Receivable,0,None,None,None,lahore,punjab,Yes,LAHORE
+463,KIMS ,industry,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,hari pur,punjab,Yes,HARIPUR
+464,anjar bakery,industry,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,karachi
+465,Vita Bread (Multan),industry,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Multan 
+466,Imtiaz Store Bahawalpur,LMT,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,bahawalpur,punjab,Yes,Bahawalpur
+467,Dawn Bread  (RWP) ,industry,adnan,abc@abc.com,0,0332-3376551,30,Yes,0,101002001,Account Receivable,0,None,None,None,islamabad,punjab,Yes,Islamabad
+468,S.S STORE(shahalam lhr),trader,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,lahore,punjab,Yes,0
+469,Exporter lala (USA),exporter,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,USA
+470,Ali Hasssan Traders (khan pur),industry,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,khanpur,sindh,Yes,khanpur
+471,MFM (YOUSUF) ,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,KARACHI
+472,Ameer Hamza Mardan,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Mardan
+473,Ahbab sweets ( BAKERY),trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,karachi
+474,Master Food (nowshera),industry,adnan,asd@nxmnz.cm,31212,030000,30,No,0,101002001,Account Receivable,212,None,None,None,nowshehra,kpk,Yes,nowshera
+475,Shafi and Sons islamabad,distributor,adil,abc@abc.com,0,0333-5172622,30,Yes,0,101002001,Account Receivable,0,None,None,None,islamabad,punjab,Yes,Islamabad 
+476,Akhter Muneer,industry,adnan,asd@nxmnz.cm,31212,0333-9430687,30,No,0,101002001,Account Receivable,212,None,None,None,mardan,kpk,Yes,Mardan
+477,Ismail and sons kharian,distributor,adil,abc@abc.com,0,0333-5172622,30,Yes,0,101002001,Account Receivable,0,None,None,None,gujranwala,punjab,Yes,kharain
+478,Bashir rangwalay,trader,adil,mwhaque@atlashonda.com.pk,0,0,30,Yes,0,101002001,Account Receivable,0801063-3,None,None,None,lahore,punjab,Yes,lahore
+479,Bukhtiari Foods,industry,adnan,asd@nxmnz.cm,0,+92 321 4333288,30,No,0,101002001,Account Receivable,212,None,None,None,sahiwal,punjab,Yes,sahiwal
+480,idress islamabad,distributor,adnan,abc@abc.com,0,0333-5172622,30,Yes,0,101002001,Account Receivable,0,None,None,None,islamabad,punjab,Yes,Islamabad 
+481,hasnain traders pindi (zia),distributor,adil,abc@abc.com,0,0321-5274928,30,Yes,0,101002001,Account Receivable,0,None,None,None,pindi,punjab,Yes,pindi
+482,Burhani BreadCrumbs,distributor,adnan,abc@abc.com,0,0334-3538606,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,karachi
+483,shah jahan exporter,exporter,adnan,None@gmail.com,0,0321-8221369,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,"0
+"
+484,Rupali foods,trader,adnan,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,lahore,punjab,Yes,office#307 upper mall lhr
+485,Faisal Malik traders,trader,adnan,None@gmail.com,0,0311-1075496,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,North Nazimabad Karachi 
+486,Haji Sardar Ahmed C/o Tariq Sb,trader,adnan,None@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Lahore
+487,Ashrafi Bread Industries,industry,adnan,asd@nxmnz.cm,0,-,30,Yes,0,101002001,Account Receivable,212,None,None,None,karachi,sindh,Yes,Karachi
+488,Nabi Rehman & Sons,trader,adil,None@gmail.com,0,0335-9525017,30,Yes,0,101002001,Account Receivable,0,None,None,None,None,kpk,Yes,0
+489,fazal hadi swat,trader,adnan,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,sawat,kpk,Yes,sawat
+490,allied traders (swabi),trader,adil,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,Swabi,kpk,Yes,qasim market main bazar TOPI
+491,AA food,trader,adnan,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,site
+492,Noble House Trading WLL,exporter,adnan,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,export to qatar
+493,padaya foods,trader,adnan,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,lahore,punjab,Yes,lahore
+494,Ghalib Trader’s,trader,adil,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,bhawalnugar,punjab,Yes,Thana Road near masjid aqsa Al hadith  Dunga Bunga District Bahawalnagar 
+495,Me imtiaz Khattak,trader,adil,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,Karak,kpk,Yes,karak
+496,Sheikh and Sheikh,trader,adnan,None@gmail.com,0,03113839321,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Nazir industri plot no f 160 near mubashir masjid rasheedabad s.I.t.e Karachi 
+497,M naeem traders (Quetta),trader,adil,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,quetta,kpk,Yes,quetta
+498,Rashid (RWP),trader,adil,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,pindi,punjab,Yes,rawalpindi
+499,Sheraz traders (larkana),trader,adil,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,None,sindh,Yes,larkana
+500,Saddam foods,trader,adil,None@gmail.com,0,03033903333,30,Yes,0,101002001,Account Receivable,0,None,None,None,lahore,punjab,Yes,lhr
+501,Barkat Shah(chitral),trader,adil,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,None,baluchistan,Yes,chitral
+502,A.H FOODS,trader,adil,None@gmail.com,0,0336 2332929,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes, F-56 Site area behind Honda motorcycle site area
+503,Ali hassan Traders (khanpur),trader,adil,None@gmail.com,0,0300-6706615,30,Yes,0,101002001,Account Receivable,0,None,None,None,khanpur,punjab,Yes,khanpur
+504,Greek Exporter,trader,adnan,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,None,None,Yes,exporter
+505,Irfan (guj),trader,adnan,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,gujranwala,punjab,Yes,gujranwala
+506,mateeullah Afghanistan,trader,adnan,None@gmail.com,0,0,30,No,0,101002001,Account Receivable,0,None,None,None,afg,afg,Yes,afghanistan
+507,Sun Rise Marketing,distributor,adil,None@gmail.com,0,0333-9442555,30,Yes,0,101002001,Account Receivable,0,None,None,None,pindi,punjab,Yes,Old Post Office Road Taj Chowk Mingora Swat
+508,Tariq (Chichawatni),distributor,adil,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,chichawatni,punjab,Yes,Chichawatni
+509,Azhar Hussain Bhatti ,trader,adil,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,lahore,punjab,Yes,Lahore 
+510,Anwar And Sons Hyderabad ,distributor,adil,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,hyderabad,sindh,Yes,Hyderabad 
+511,Qadri Traders Joid Bazar ,trader,adnan,None@gmail.com,0,0,0,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+512,Imran Trader gujranwala,trader,adil,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,gujranwala,punjab,Yes,gujranwala punjab
+513,Sarfraz traders Pak Patan  ,distributor,adil,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,Pak Patan ,punjab,Yes,Pak Patan 
+514,Premium   ,exporter,adnan,None@gmail.com,0,0,0,Yes,0,101002001,Account Receivable,0,None,None,None,None,None,Yes,Canada
+515,junaid Wah cant ,distributor,adil,None@gmail.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,wah cant,punjab,Yes,Wah Cant 
+516,Junaid Traders Orangi Town,distributor,adil,None@gmail.com,0,-,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+517,Huzaifa Traders (Abhia Ent) Mandi Bahuddin ,distributor,adil,None@gmail.com,0,03027987374,30,Yes,0,101002001,Account Receivable,0,None,None,None,Mandi Bahuddin ,punjab,Yes,Mandi Bahuddin 
+518,Lokanta Resturent Peshawar ,restaurant,adnan,None@gmail.com,0,03215622855,0,Yes,0,101002001,Account Receivable,0,None,None,None,peshawar,kpk,Yes,Peshawar 
+519,Nawi Al Madina ,trader,adnan,None@gmail.com,0,0377 8892175,0,Yes,0,101002001,Account Receivable,0,None,None,None,afg,afg,Yes,Afghanistan 
+520,Baith Al Mandi Dera Ghazi Khan,restaurant,adnan,None@gmail.com,0,0334-1811818,0,Yes,0,101002001,Account Receivable,0,None,None,None,d g khan,punjab,Yes,Dera Ghazi Khan
+521,Shamshuddin tradrs Rawalpindi,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,islamabad,punjab,Yes,Rawalpindi 
+522,Al Huda Ent Gujranwala ,trader,adnan,None@gmail.com,0,0377 8892175,0,Yes,0,101002001,Account Receivable,0,None,None,None,gujranwala,punjab,Yes,Gujranwala 
+523,Yousuf Traders Sarghoda,distributor,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,sarghoda,punjab,Yes,Sarghoda 
+524,Agha and Sons Lahore,distributor,adil,None@gmail.com,-,0321 47657212,30,Yes,0,101002001,Account Receivable,-,None,None,None,lahore,punjab,Yes,Lahore 
+525,Abdul Manan Okara,distributor,adil,None@gmail.com,-,0321 47657212,30,Yes,0,101002001,Account Receivable,-,None,None,None,Okara,punjab,Yes,Okara
+526,Saleem and Sons kotla,distributor,adil,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,gujrat,punjab,Yes,kotla
+527,Shakeel Traders Faisalabad ,distributor,adil,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,faisalabad,punjab,Yes,Faisalabad 
+528,Zareen Foods Chaman,trader,adnan,None@gmail.com,0,0093700694843,0,Yes,0,101002001,Account Receivable,0,None,None,None,chaman,baluchistan,Yes,Chaman 
+529,Elemensis General Trading LLc  ,exporter,adnan,None@gmail.com,0,03217070557,0,Yes,0,101002001,Account Receivable,0,None,None,None,None,None,Yes,Dubai UAE 
+530,Anus Bread Crumbs wastage,trader,adnan,abc@abc.com,0,0,30,Yes,0,101002001,Account Receivable,0,None,None,None,karachi,sindh,Yes,Karachi 
+531,wali & Co. scrape,trader,sultan,None@gmail.com,-,-,30,Yes,0,101002001,Account Receivable,-,None,None,None,hub,baluchistan,Yes,None
+532,Yousuf Quereshi (Umer)  ,trader,adnan,None@gmail.com,0,0315-3797309,0,Yes,0,101002001,Account Receivable,0,None,None,None,hyderabad,sindh,Yes,Hyderabad 

@@ -1,0 +1,579 @@
+ItemRefNo,ItemTitle,CategoryTitle,SupplierTitle,ClassTitle,GroupTitle,TypeTitle,PackagingTitle,UOMTitle,TaxCategoryTitle,PcsPerPkt,Active,DecimalPlaceCount,ManualRate,PurchaseRate,BatchNoRequired,NonInventory,Production,Purchase,QC,Sale,TaxBasedOnCustomer
+187,Scourer 18gm,Scourer,None,scourer,finished goods,none,None,pcs,None,0.0,No,5,Yes,0.0,No,No,No,No,No,No,No
+188,Scourer 36gm,Scourer,None,scourer,finished goods,none,None,pcs,None,0.0,No,5,Yes,0.0,No,No,No,No,No,No,No
+235,Scourer 20gm,Scourer,None,scourer,finished goods,none,None,pcs,None,0.0,No,5,Yes,0.0,No,No,No,No,No,No,No
+408,SCOURER 15GM,Scourer,None,scourer,finished goods,none,None,pcs,None,0.0,No,5,Yes,0.0,No,No,No,No,No,No,No
+184,PAPAD TRIANGLE 500GM,cracker,None,3d,finished goods,none,None,pcs,None,0.0,No,5,Yes,0.0,No,No,No,No,No,No,No
+186,PAPAD TRIANGLE 100GM,cracker,None,3d,finished goods,none,None,pcs,None,0.0,No,5,Yes,0.0,No,No,No,No,No,No,No
+382,PAPAD TRIANGLE 250GM,cracker,None,3d,finished goods,none,None,pcs,None,40.0,No,5,Yes,0.0,No,No,No,No,No,No,No
+315,PAPAD GOL GAPPAY 500GM,cracker,None,golgappay,finished goods,none,None,pcs,None,0.0,No,5,Yes,160.0,No,No,No,No,No,No,No
+371,PAPAD PIPES100GM,cracker,None,Potato,finished goods,none,None,pcs,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+401,PAPAD PIPES 500GM,cracker,None,Potato,finished goods,none,None,pcs,None,0.0,No,5,Yes,0.0,No,No,No,No,No,No,No
+442,PAPAD PATTI WHITE 500GM,cracker,None,Potato,finished goods,none,None,pcs,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+42,PRAWN CRACKER 500GM,cracker,None,crackerPrawn white,finished goods,none,None,pcs,None,0.0,No,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+379,PAPAD CRACKER BUTTON WHITE 250GM ,cracker,None,crackerPrawn white,finished goods,none,None,pcs,None,40.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+181,PAPAD CRACKER COLOR 100GM,cracker,None,crackerPrawn color,finished goods,none,None,pcs,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+43,PAPAD CRACKER CRYSTAL 100GM,cracker,None,crackerPrawn crystal,finished goods,none,None,pcs,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+161,PAPAD CRACKER CRYSTAL 100GM 2,cracker,None,crackerPrawn crystal,finished goods,none,None,pcs,None,0.0,No,5,Yes,0.0,No,No,No,No,No,No,No
+378,PAPAD,cracker,None,crackerPrawn crystal,finished goods,none,None,pcs,None,0.0,No,5,Yes,0.0,No,No,No,No,No,No,No
+319,PAPAD CRACKER CRYSTAL COLOR 100GM,cracker,None,crackerPrawn crystal color,finished goods,none,None,pcs,None,0.0,No,5,Yes,22.0,No,No,No,No,No,No,No
+46,PAPAD GUJRATI 100GM,cracker,None,crackerPrawn gujrati,finished goods,none,None,pcs,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+313,PAPAD GUJRATI 500GM,cracker,None,crackerPrawn gujrati,finished goods,none,None,pcs,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+376,PAPAD GUJRATI 250GM,cracker,None,crackerPrawn gujrati,finished goods,none,None,pcs,None,40.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+48,PAPAD ZEERA 100GM,cracker,None,crackerPrawn zeera,finished goods,none,None,pcs,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+179,PAPAD ZEERA 500GM,cracker,None,crackerPrawn zeera,finished goods,none,None,pcs,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+377,PAPAD ZEERA 250GM,cracker,None,crackerPrawn zeera,finished goods,none,None,pcs,None,40.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+163,PAPAD CRACKER BUTTON WHITE 100GM,cracker,None,crackerPrawn button white,finished goods,none,None,pcs,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+178,PAPAD CRACKER BUTTON WHITE 500GM ,cracker,None,crackerPrawn button white,finished goods,none,None,pcs,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+176,PAPAD CRACKER BUTTON COLOR 100GM,cracker,None,crackerPrawn button color,finished goods,none,None,pcs,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+177,PAPAD CRACKER BUTTON COLOR 500GM ,cracker,None,crackerPrawn button color,finished goods,none,None,pcs,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+289,PAPAD RACKET 500GM,cracker,None,crackerPrawn sports,finished goods,none,None,pcs,None,0.0,No,5,Yes,160.0,No,No,No,No,No,No,No
+290,PAPAD RACKET 100GM,cracker,None,crackerPrawn sports,finished goods,none,None,pcs,None,0.0,No,5,Yes,160.0,No,No,No,No,No,No,No
+293,PAPAD BALL 100GM,cracker,None,crackerPrawn sports,finished goods,none,None,pcs,None,0.0,No,5,Yes,160.0,No,No,No,No,No,No,No
+294,PAPAD BALL 500GM,cracker,None,crackerPrawn sports,finished goods,none,None,pcs,None,0.0,No,5,Yes,160.0,No,No,No,No,No,No,No
+303,PAPAD HEXON 500GM,cracker,None,crackerPrawn sports,finished goods,none,None,pcs,None,0.0,No,5,Yes,0.0,No,No,No,No,No,No,No
+304,PAPAD HEXON 100GM,cracker,None,crackerPrawn sports,finished goods,none,None,pcs,None,0.0,No,5,Yes,0.0,No,No,No,No,No,No,No
+383,PAPAD RACKET 250GM,cracker,None,crackerPrawn sports,finished goods,none,None,pcs,None,40.0,No,5,Yes,160.0,No,No,No,No,No,No,No
+384,PAPAD BALL 250GM,cracker,None,crackerPrawn sports,finished goods,none,None,pcs,None,40.0,No,5,Yes,160.0,No,No,No,No,No,No,No
+385,PAPAD HEXON 250GM,cracker,None,crackerPrawn sports,finished goods,none,None,pcs,None,40.0,No,5,Yes,0.0,No,No,No,No,No,No,No
+457,PAPAD DRUM STICK 500gm,cracker,None,crackerPrawn sports,finished goods,none,None,pcs,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+458,PAPAD DRUM STICK 250gm,cracker,None,crackerPrawn sports,finished goods,none,None,pcs,None,40.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+14,CHOCO FLAKES 150GM,mingalz,None,none,finished goods,none,None,pcs,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+15,FRUITY POPS 150GM,mingalz,None,none,finished goods,none,None,pcs,None,0.0,No,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+16,FRUITY POPS 16GM,mingalz,None,none,finished goods,none,None,pcs,None,0.0,No,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+17,FRUITY POPS 300GM,mingalz,None,none,finished goods,none,None,pcs,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+13,MINGALZ YELLOW BOX 300GM,mingalz,None,yellow,finished goods,none,None,pcs,None,21.0,No,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+531,non active,mingalz,None,yellow,finished goods,none,None,pcs,None,216.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+532,non active1,mingalz,None,yellow,finished goods,none,None,pcs,None,216.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+10,MINGALZ PURPLE BOX 300GM,mingalz,None,purple,finished goods,none,None,pcs,None,21.0,No,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+397,BRAGA CHOCO SHELLS,mingalz,None,braga,finished goods,none,None,pcs,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+398,BRAGA CHOCO BALLS,mingalz,None,braga,finished goods,none,None,pcs,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+399,BRAGA PILLOWS,mingalz,None,braga,finished goods,none,None,pcs,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+52,CHICKEN CORN SOUP 13GM,mingalz,None,soups,finished goods,none,None,pcs,None,0.0,No,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+54,HOT AND SOUR SOUP 13GM,mingalz,None,soups,finished goods,none,None,pcs,None,0.0,No,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+437,SEASONING LIME POUCH 400gm,seasoning,None,lime,finished goods,none,None,pcs,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+2,SEASONING CHICKEN POWDER 80GM,soup & ckp,None,chicken powder,finished goods,none,None,pcs,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+277,Plastic Crate P-11 25kg inner dimension (20.0x13.0x12.0),General factory purchase,None,none,services,none,None,pcs,None,1.0,Yes,3,Yes,570.0,No,No,No,Yes,No,No,No
+297,factory general services,General factory purchase,None,none,services,none,None,pcs,None,0.0,Yes,3,Yes,0.0,No,Yes,No,No,No,No,No
+322,CARTAGE SERVICES,General factory purchase,None,none,services,none,None,pcs,None,0.0,Yes,3,Yes,0.0,No,Yes,No,No,No,No,No
+272,general Factory purchase,General factory purchase,Vendor cash partys,none,services,none,None,pcs,None,0.0,Yes,3,Yes,0.0,No,Yes,No,No,No,No,No
+284,general office purchase,General factory purchase,Vendor cash partys,none,services,none,None,pcs,None,0.0,Yes,3,Yes,0.0,No,Yes,No,No,No,No,No
+171,Factory purchase naveed,General factory purchase,Factory Purchase non Inventory,none,services,none,None,pcs,None,0.0,Yes,0,Yes,0.0,No,Yes,No,No,No,No,No
+172,Factory purchase Head Office,General factory purchase,Factory Purchase non Inventory,none,services,none,None,pcs,None,0.0,Yes,0,Yes,0.0,No,No,No,Yes,No,No,No
+359,construction factory services,General factory purchase,Factory Purchase non Inventory,none,services,none,None,pcs,None,0.0,Yes,0,Yes,0.0,No,Yes,No,No,No,No,No
+262,Wooden Pallet/box,General factory purchase,JINAN DG MACHINERY,none,services,none,None,pcs,None,1.0,Yes,0,Yes,1.0,No,No,No,Yes,No,No,No
+152,Clearing Charges,Import charges,None,none,services,none,None,pcs,None,1.0,Yes,2,Yes,1.0,No,Yes,No,No,No,No,No
+153,Token Charges,Import charges,None,none,services,none,None,pcs,None,1.0,Yes,2,Yes,1.0,No,Yes,No,No,No,No,No
+154,DO charges,Import charges,None,none,services,none,None,pcs,None,1.0,Yes,3,Yes,1.0,No,Yes,No,No,No,No,No
+155,Custom Duty,Import charges,None,none,services,none,None,pcs,None,144.0,Yes,3,Yes,1.0,No,Yes,No,No,No,No,No
+228,PPRO charges,Import charges,None,none,services,none,None,pcs,None,1.0,Yes,3,Yes,1.0,No,Yes,No,No,No,No,No
+229,Excise and taxation officer dues,Import charges,None,none,services,none,None,pcs,None,1.0,Yes,3,Yes,1.0,No,Yes,No,No,No,No,No
+230,YARD/WAREHOUSE charges,Import charges,None,none,services,none,None,pcs,None,1.0,Yes,3,Yes,1.0,No,Yes,No,No,No,No,No
+231,Shipping charges,Import charges,None,none,services,none,None,pcs,None,1.0,Yes,3,Yes,1.0,No,Yes,No,No,No,No,No
+232,Labor and cartage charges imports,Import charges,None,none,services,none,None,pcs,None,1.0,Yes,2,Yes,1.0,No,Yes,No,No,No,No,No
+236,Invoice not found penalty,Import charges,None,none,services,none,None,pcs,None,1.0,Yes,3,Yes,1.0,No,Yes,No,No,No,No,No
+242,Document retirement Imports,Import charges,None,none,services,none,None,pcs,None,1.0,Yes,3,Yes,1.0,No,Yes,No,No,No,No,No
+263,Sales Tax Import,Import charges,None,none,services,none,None,pcs,None,1.0,Yes,2,Yes,1.0,No,Yes,No,No,No,No,No
+264,income Tax Import,Import charges,None,none,services,none,None,pcs,None,1.0,Yes,2,Yes,1.0,No,Yes,No,No,No,No,No
+265,Additional customs duty,Import charges,None,none,services,none,None,pcs,None,1.0,Yes,2,Yes,1.0,No,Yes,No,No,No,No,No
+266,Regulatory Duty,Import charges,None,none,services,none,None,pcs,None,1.0,Yes,2,Yes,1.0,No,Yes,No,No,No,No,No
+282,Sindh Stamp Duty,Import charges,None,none,services,none,None,pcs,None,1.0,Yes,3,Yes,1.0,No,Yes,No,No,No,No,No
+328,Central excise duty / Special VAT,Import charges,None,none,services,none,None,pcs,None,144.0,Yes,3,Yes,1.0,No,Yes,No,No,No,No,No
+335,Additional Sales Tax,Import charges,None,none,services,none,None,pcs,None,1.0,Yes,5,Yes,1.0,No,Yes,No,No,No,No,No
+356,Terminal Charges airport,Import charges,None,none,services,none,None,pcs,None,1.0,Yes,5,Yes,1.0,No,Yes,No,No,No,No,No
+357,Aviation Charges,Import charges,None,none,services,none,None,pcs,None,1.0,Yes,5,Yes,1.0,No,Yes,No,No,No,No,No
+461,damage and washing,Import charges,None,none,services,none,None,pcs,None,1.0,Yes,3,Yes,1.0,No,Yes,No,No,No,No,No
+462,pay order mistake ,Import charges,None,none,services,none,None,pcs,None,1.0,Yes,3,Yes,1.0,No,Yes,No,No,No,No,No
+513,IP import permit,Import charges,None,none,services,none,None,pcs,None,1.0,Yes,3,Yes,1.0,No,Yes,No,No,No,No,No
+260,3d pattern roller without holes,Machinery Spare Parts,JINAN DG MACHINERY,none,machineParts,none,None,pcs,None,1.0,Yes,3,Yes,1.0,No,Yes,No,No,No,No,No
+261,3d compound shaping roller,Machinery Spare Parts,JINAN DG MACHINERY,none,machineParts,none,None,pcs,None,1.0,Yes,3,Yes,1.0,No,Yes,No,No,No,No,No
+422,refrigeration unit with standard accessories,Machinery Spare Parts,"TIANJIN ANBER INTERNATIONAL TRADE CO.,LTD",none,machineParts,none,None,pcs,None,0.0,Yes,5,Yes,1.0,No,No,No,Yes,No,No,No
+483,extruding production line with standard accessories,Machinery Spare Parts,"Jiangsu ZhongTai Packing Machinery co., ltd",none,machineParts,none,None,pcs,None,0.0,Yes,5,Yes,1.0,No,No,No,Yes,No,No,No
+549,CHOCOLATE BALL MILL LINE ,Machinery Spare Parts,"SUZHOU HARMO FOOD MACHINERY CO., LTD",none,machineParts,none,None,pcs,None,0.0,Yes,5,Yes,1.0,No,No,No,Yes,No,No,No
+298,purya cracker white,Production,None,none,services,none,None,pcs,None,0.0,Yes,3,Yes,0.0,No,No,Yes,No,No,No,No
+299,purya cracker transparent,Production,None,none,services,none,None,pcs,None,0.0,Yes,3,Yes,0.0,No,No,Yes,No,No,No,No
+300,Insurance import,Shipping insurance,None,none,services,none,None,pcs,None,0.0,Yes,0,Yes,0.0,No,Yes,No,No,No,No,No
+196,WHIP CREAM FLUFFY ,Bakery,None,Whip cream,finished goods,none,None,pcs,None,12.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+34,JELLY BANANA 55GM,others,None,jelly,finished goods,none,None,pcs,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+35,JELLY BANANA 80GM,others,None,jelly,finished goods,none,None,pcs,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+36,JELLY STRAWBERRY 55GM,others,None,jelly,finished goods,none,None,pcs,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+37,JELLY STRAWBERRY 80GM,others,None,jelly,finished goods,none,None,pcs,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+499,Cylinder for flexible packaging,others,None,none,machineParts,none,None,pcs,None,1.0,Yes,5,Yes,1.0,No,No,No,Yes,No,No,No
+174,BREAD CRUMBS 200GM,breadcrumb,None,Bread Crumb,finished goods,breadcrumb,Retail,pcs,None,36.0,Yes,5,Yes,0.0,No,No,Yes,No,No,Yes,No
+484,bread crumb non woven bag 10kg,bag,None,breadcrumb,packing material,breadcrumb,None,pcs,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+460,CLEAROX SCOURER 12PCS CARD,Scourer,None,scourer,finished goods,scourerSteel,Retail,pcs,None,144.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,Yes,No
+509,SCOURER 27GM,Scourer,None,scourer,finished goods,scourerSteel,Retail,pcs,None,144.0,Yes,5,Yes,0.0,No,No,Yes,No,No,Yes,No
+39,PAPAD CRACKER WHITE 100GM,cracker,None,crackerPrawn white,finished goods,crackerPrawn,Retail,pcs,None,96.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+41,PAPAD PRAWN CRACKER 200GM BOX,cracker,None,crackerPrawn white,finished goods,crackerPrawn,Retail,pcs,None,25.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+51,PAPAD SOUP CKR 200GM BOX,cracker,None,crackerPrawn white,finished goods,crackerPrawn,Retail,pcs,None,25.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+374,PAPAD CRACKER WHITE 250GM,cracker,None,crackerPrawn white,finished goods,crackerPrawn,Retail,pcs,None,40.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+381,PAPAD CRACKER COLOR 250GM ,cracker,None,crackerPrawn color,finished goods,crackerPrawn,Retail,pcs,None,40.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+375,PAPAD CRACKER CRYSTAL1 250GM,cracker,None,crackerPrawn crystal,finished goods,crackerPrawn,Retail,pcs,None,40.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+386,PAPAD CRACKER CRYSTAL COLOR 250GM ,cracker,None,crackerPrawn crystal color,finished goods,crackerPrawn,Retail,pcs,None,40.0,Yes,5,Yes,22.0,No,No,Yes,No,No,Yes,No
+380,PAPAD CRACKER BUTTON COLOR 250GM ,cracker,None,crackerPrawn button white,finished goods,crackerPrawn,Retail,pcs,None,40.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+182,PAPAD CRACKER WHITE 500GM ,cracker,None,crackerPrawn white,finished goods,crackerPrawn,Bulk,pcs,None,24.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+180,PAPAD PRAWN CRACKER COLOR 500GM ,cracker,None,crackerPrawn color,finished goods,crackerPrawn,Bulk,pcs,None,24.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+44,PAPAD CRACKER CRYSTAL 1KG ,cracker,None,crackerPrawn crystal,finished goods,crackerPrawn,Bulk,pcs,None,12.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+151,PAPAD CRACKER CRYSTAL 500GM ,cracker,None,crackerPrawn crystal,finished goods,crackerPrawn,Bulk,pcs,None,24.0,Yes,5,Yes,0.0,No,No,Yes,No,No,Yes,No
+45,PAPAD CRACKER CRYSTAL COLOR 1KG ,cracker,None,crackerPrawn crystal color,finished goods,crackerPrawn,Bulk,pcs,None,12.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+309,PAPAD CRACKER CRYSTAL COLOR 500GM,cracker,None,crackerPrawn crystal color,finished goods,crackerPrawn,Bulk,pcs,None,24.0,Yes,5,Yes,0.0,No,No,Yes,No,No,Yes,No
+400,PAPAD GOL GAPPAY 250GM,cracker,None,golgappay,finished goods,crackerGolGappay,Retail,pcs,None,40.0,Yes,5,Yes,0.0,No,No,Yes,No,No,Yes,No
+387,PAPAD PIPES 250GM,cracker,None,Potato,finished goods,crackerPipes,Retail,pcs,None,40.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+467,PAPAD PATTI FRY 250GM,cracker,None,crackerPrawn patti fry,finished goods,crackerPipes,Retail,pcs,None,40.0,Yes,5,Yes,0.0,No,No,Yes,No,No,Yes,No
+1,SEASONING CHICKEN POWDER 100GM,packagedPowderMix,None,chicken powder,finished goods,ckpRegular,Retail,pcs,None,144.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+3,SEASONING CHICKEN POWDER 18GM,packagedPowderMix,None,chicken powder,finished goods,ckpRegular,Retail,pcs,None,480.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+5,SEASONING CHICKEN POWDER JAR 1KG,packagedPowderMix,None,chicken powder,finished goods,ckpRegular,Retail,pcs,None,12.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+6,SEASONING CHICKEN POWDER POUCH 1KG,packagedPowderMix,None,chicken powder,finished goods,ckpRegular,Retail,pcs,None,12.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+428,SEASONING CHICKEN POWDER 18GM  Box  ,packagedPowderMix,None,chicken powder,finished goods,ckpRegular,Retail,pcs,None,640.0,Yes,5,Yes,0.0,No,No,Yes,No,No,Yes,No
+480,SEASONING CHICKEN STOCK POWDER BAG 10KG,packagedPowderMix,None,chicken powder,finished goods,ckpRegular,Bulk,pcs,None,12.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+556,honeycomb for 1kg pouch and jar,none,None,chicken powder,packing material,ckpRegular,None,pcs,None,0.0,Yes,5,Yes,50.0,No,No,No,Yes,No,No,No
+424,SEASONING CHICKEN STOCK POWDER JAR 1KG,packagedPowderMix,None,chicken powder,finished goods,ckpResturant,Retail,pcs,None,12.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+53,CHICKEN CORN SOUP 55 GM,packagedPowderMix,None,soups,finished goods,soupCS,Retail,pcs,None,144.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+55,HOT AND SOUR SOUP 55 GM,packagedPowderMix,None,soups,finished goods,soupHS,Retail,pcs,None,144.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+56,NOODLES SOUP 55 GM,packagedPowderMix,None,soups,finished goods,soupNS,Retail,pcs,None,144.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+57,VEGETABLE SOUP 55 GM,packagedPowderMix,None,soups,finished goods,soupVS,Retail,pcs,None,144.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+449,TOMATO SOUP 55GM,packagedPowderMix,None,soups,finished goods,soupTomato,Retail,pcs,None,144.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+402,MOVE HAND SANITIZER,others,None,Handsantizer,finished goods,moveHandSanitizer,Retail,pcs,None,24.0,Yes,5,Yes,0.0,No,No,No,Yes,No,Yes,No
+459,MOVE DISHWASHER LIQUID,others,None,Handsantizer,finished goods,moveDishwasherLiquid,Retail,pcs,None,24.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,Yes,No
+403,MOVE HAND WASH LIQUID SOAP,others,None,Hand wash,finished goods,moveHandWashLiquid,Retail,pcs,None,24.0,Yes,5,Yes,0.0,No,No,No,Yes,No,Yes,No
+537,Green Raita,packagedPowderMix,None,raita,finished goods,raitaGreen,Retail,pcs,None,720.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+538,Zeera Raita,packagedPowderMix,None,raita,finished goods,raitaZeera,Retail,pcs,None,720.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+431,PAPAD PARTY MIX WHITE 250GM,cracker,None,3d,finished goods,cracker3d,Retail,pcs,None,40.0,Yes,5,Yes,0.0,No,No,Yes,No,No,Yes,No
+432,PAPAD PARTY MIX COLOR 250GM,cracker,None,3d,finished goods,cracker3d,Retail,pcs,None,40.0,Yes,5,Yes,0.0,No,No,Yes,No,No,Yes,No
+58,Plastic 1kg bucket,bucket,None,cakegel,packing material,cakegel,None,pcs,None,0.0,Yes,0,Yes,32.0,No,No,No,Yes,No,No,No
+278,Plastic 18kg bucket,bucket,None,cakegel,packing material,cakegel,None,pcs,None,0.0,Yes,0,Yes,270.0,No,No,Yes,Yes,No,No,No
+189,Ice box,cartons,None,whipCream,packing material,whipcream,None,pcs,None,0.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+227,Dashi MC 0 whip Carton (dimension 300X235X220 mm),cartons,None,whipCream,packing material,whipcream,None,pcs,None,0.0,Yes,0,Yes,46.0,No,No,Yes,Yes,No,No,Yes
+62,whip cream tetra pack box (old),displayBox,None,whipCream,packing material,whipcream,None,pcs,None,0.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+63,whip cream red gable top empty,displayBox,None,whipCream,packing material,whipcream,None,pcs,None,0.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+81,whip cream fluffy box,displayBox,None,whipCream,packing material,whipcream,None,pcs,None,1.0,Yes,0,Yes,1.0,No,No,Yes,No,No,Yes,No
+365,whip cream green gable top empty,displayBox,None,whipCream,packing material,whipcream,None,pcs,None,0.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+495,DASHI KHEER MIX 165GM,packagedPowderMix,None,kheer,finished goods,kheerRegular,Retail,pcs,None,72.0,Yes,5,Yes,0.0,No,No,Yes,No,No,Yes,No
+85,chicken powder 25kg bag pp bardana,bag,None,soup & ckp,packing material,soup & ckp,None,pcs,None,0.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+86,chicken powder 1kg pouch empty,bag,None,soup & ckp,packing material,soup & ckp,None,pcs,None,0.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+119,Foiling bag LxW 23x15 ..masala,bag,None,soup & ckp,packing material,soup & ckp,None,pcs,None,0.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+396,chicken mazedar powder 25kg woven bag,bag,None,soup & ckp,packing material,soup & ckp,None,pcs,None,1.0,No,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+521,chicken zaiqa powder 25kg BOPP+ woven bag,bag,None,soup & ckp,packing material,soup & ckp,None,pcs,None,0.0,Yes,5,Yes,0.0,No,No,No,Yes,No,No,No
+160,Dashi MC2 1kg pouch Carton (dimension 415 x 340 x 176 mm),cartons,None,soup & ckp,packing material,soup & ckp,None,pcs,None,0.0,Yes,0,Yes,80.0,No,No,Yes,Yes,No,No,Yes
+225,Dashi MC3 bucket Carton (dimension 400 x 266 x 273.75 mm),cartons,None,soup & ckp,packing material,soup & ckp,None,pcs,None,0.0,Yes,0,Yes,56.0,No,No,Yes,Yes,No,No,Yes
+226,Dashi MC1 1kg cracker Carton (dimension 410x325x355 mm),cartons,None,soup & ckp,packing material,soup & ckp,None,pcs,None,0.0,Yes,5,Yes,88.0,No,No,Yes,Yes,No,No,Yes
+388,Funchies MC2 Carton (dimension 20.5/8 x 16.5/8 x 14.75 inch),cartons,None,soup & ckp,packing material,soup & ckp,None,pcs,None,0.0,Yes,5,Yes,106.47,No,No,Yes,Yes,No,No,No
+194,Display Box Chicken powder 100gm (150x165x130mm),displayBox,None,soup & ckp,packing material,soup & ckp,None,pcs,None,0.0,Yes,0,Yes,80.0,No,No,Yes,Yes,No,No,Yes
+273,Display Box Soups (150x130x165mm),displayBox,None,soup & ckp,packing material,soup & ckp,None,pcs,None,0.0,Yes,0,Yes,80.0,No,No,Yes,Yes,No,No,No
+421,Display Box Chicken powder 18gm (205x113x103mm),displayBox,None,soup & ckp,packing material,soup & ckp,None,pcs,None,0.0,Yes,5,Yes,11.5,No,No,Yes,Yes,No,No,No
+496,Display box dashi kheer mix 165gm  (195x143x125mm),displayBox,None,soup & ckp,packing material,soup & ckp,None,pcs,None,8.0,Yes,5,Yes,80.0,No,No,Yes,Yes,No,No,No
+118,chicken powder 1kg bucket label,label,None,soup & ckp,packing material,soup & ckp,None,pcs,None,0.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+373,chicken stock powder 1kg bucket label ,label,None,soup & ckp,packing material,soup & ckp,None,pcs,None,0.0,Yes,6,Yes,0.0,No,No,Yes,Yes,No,No,No
+117,chicken zaiqa powder 25kg non woven bag,flexible packaging,None,soup & ckp,packing material,soup & ckp,None,pcs,None,0.0,No,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+348,hameed chicken powder 25kg non woven bag,none,MULTI PACKAGES AAMIR,soup & ckp,packing material,soup & ckp,None,pcs,None,0.0,No,3,Yes,1.0,No,No,Yes,Yes,No,No,No
+451,Clearox master Carton (dimension 00x00 x00 mm),cartons,None,scourer,packing material,Scourer,None,pcs,None,0.0,Yes,5,Yes,80.0,No,No,Yes,Yes,No,No,No
+224,Funchies MC1 Carton (dimension 540 x 457 x 406mm),cartons,None,mingalz,packing material,mingalz,None,pcs,None,0.0,Yes,5,Yes,88.0,No,No,Yes,Yes,No,No,Yes
+454,Funchies MC3 Carton (dimension 395*363*299mm),cartons,None,mingalz,packing material,mingalz,None,pcs,None,0.0,Yes,5,Yes,88.0,No,No,Yes,Yes,No,No,No
+485,Funchies MC4 Carton (dimension 500*482*252mm),cartons,None,mingalz,packing material,mingalz,None,pcs,None,0.0,Yes,5,Yes,160.0,No,No,Yes,Yes,No,No,No
+580,Funchies MC5 Carton (dimension 455*430*295mm),cartons,None,mingalz,packing material,mingalz,None,pcs,None,0.0,Yes,5,Yes,95.94,No,No,No,Yes,No,No,No
+75,jelly strawberry 1kg box,displayBox,None,jelly,packing material,mingalz,None,pcs,None,0.0,No,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+76,jelly banana 1kg box,displayBox,None,jelly,packing material,mingalz,None,pcs,None,0.0,No,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+77,jelly strawberry 80gm box,displayBox,None,jelly,packing material,mingalz,None,pcs,None,0.0,No,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+78,jelly banana 80gm box,displayBox,None,jelly,packing material,mingalz,None,pcs,None,0.0,No,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+79,jelly strawberry 55gm box,displayBox,None,jelly,packing material,mingalz,None,pcs,None,0.0,No,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+80,jelly banana 55gm box,displayBox,None,jelly,packing material,mingalz,None,pcs,None,0.0,No,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+66,purple 12pcs - 12g box,displayBox,None,mingalz,packing material,mingalz,None,pcs,None,0.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+67,yelllow 12pcs - 12g box,displayBox,None,mingalz,packing material,mingalz,None,pcs,None,0.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+68,red 12pcs - 12g box,displayBox,None,mingalz,packing material,mingalz,None,pcs,None,0.0,No,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+69,purple 150gm box,displayBox,None,mingalz,packing material,mingalz,None,pcs,None,0.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+70,yellow 150gm box,displayBox,None,mingalz,packing material,mingalz,None,pcs,None,0.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+71,choco bites 300gm box,displayBox,None,mingalz,packing material,mingalz,None,pcs,None,0.0,No,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+72,choco crunch 300gm box,displayBox,None,mingalz,packing material,mingalz,None,pcs,None,0.0,No,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+73,red 300gm box,displayBox,None,mingalz,packing material,mingalz,None,pcs,None,0.0,No,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+74,chicken powder 80gm box,displayBox,None,mingalz,packing material,mingalz,None,pcs,None,0.0,No,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+307,green 12pcs - 12g box,displayBox,None,mingalz,packing material,mingalz,None,pcs,None,0.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+308,pink 12pcs - 12g box,displayBox,None,mingalz,packing material,mingalz,None,pcs,None,0.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+358,green 150gm box,displayBox,None,mingalz,packing material,mingalz,None,pcs,None,36.0,Yes,5,Yes,25.74,No,No,Yes,Yes,No,No,No
+409,purple 330gm box,displayBox,None,mingalz,packing material,mingalz,None,pcs,None,0.0,Yes,5,Yes,0.0,No,No,No,Yes,No,No,No
+410,yellow 330gm box,displayBox,None,mingalz,packing material,mingalz,None,pcs,None,0.0,Yes,5,Yes,0.0,No,No,No,Yes,No,No,No
+411,green 330gm box,displayBox,None,mingalz,packing material,mingalz,None,pcs,None,0.0,Yes,5,Yes,0.0,No,No,No,Yes,No,No,No
+253,dashi hanger,marketingMaterial,None,mingalz,packing material,mingalz,None,pcs,None,0.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+254,funchies hanger,marketingMaterial,None,mingalz,packing material,mingalz,None,pcs,None,0.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+354,18pcs sticker for mingalz box,label,None,mingalz,packing material,mingalz,None,pcs,None,0.0,Yes,3,Yes,0.2,No,No,Yes,Yes,No,No,No
+500,1kg bucket separator,cartons,None,others,packing material,others,None,pcs,None,0.0,Yes,5,Yes,32.0,No,No,No,Yes,No,No,No
+501,Gift box,displayBox,None,others,packing material,others,None,pcs,None,0.0,Yes,5,Yes,85.0,No,No,No,Yes,No,No,No
+479,carton tagging sticker ,label,None,others,packing material,others,None,pcs,None,0.0,Yes,5,Yes,0.4,No,No,No,Yes,No,No,No
+64,cracker 200gm prawn box,displayBox,None,cracker,packing material,cracker,None,pcs,None,0.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+65,cracker 200gm soup cracker box,displayBox,None,cracker,packing material,cracker,None,pcs,None,0.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+324,cracker gol gapay 110gm box,displayBox,None,cracker,packing material,cracker,None,pcs,None,0.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+554,cracker 250gm display box (315x195x165),displayBox,None,cracker,packing material,cracker,None,pcs,None,0.0,Yes,5,Yes,58.5,No,No,No,Yes,No,No,No
+438,unprinted 1kg pouch empty,bag,None,seasoning,packing material,seasoning,None,pcs,None,0.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+471,Lime zaiqa powder 1kg bucket label ,label,None,seasoning,packing material,seasoning,None,pcs,None,0.0,Yes,6,Yes,0.0,No,No,Yes,Yes,No,No,No
+252,cake gel 1kg bucket label,label,None,Bakery,packing material,Bakery,None,pcs,None,0.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+251,BOPP Sealing tape red,tape,None,Production,packing material,Production,None,pcs,None,0.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+440,BOPP Sealing tape green,tape,None,Production,packing material,Production,None,pcs,None,0.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+575,200kg drum,cartons,None,panReleaseOil,packing material,panReleaseOil,None,pcs,None,0.0,Yes,5,Yes,4150.0,No,No,Yes,Yes,No,No,No
+539,Braga330g box yellow,mingalz,None,braga,finished goods,yellow,Retail,pcs,None,18.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+557,braga250g box yellow,mingalz,None,braga,finished goods,yellow,Retail,pcs,None,18.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+11,Mingalz 12g tiki yellow,mingalz,None,mingalz,finished goods,yellow,Retail,pcs,None,216.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+12,mingalz 150g box yellow,mingalz,None,mingalz,finished goods,yellow,Retail,pcs,None,24.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+246,mingalz 12g tiki box yellow,mingalz,None,mingalz,finished goods,yellow,Retail,pcs,None,288.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+419,mingalz 330g box yellow,mingalz,None,mingalz,finished goods,yellow,Retail,pcs,None,16.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+558,mingalz 25g tikki yellow,mingalz,None,mingalz,finished goods,yellow,Retail,pcs,None,144.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+339,AHG 12g tikki yellow,mingalz,None,AHG,finished goods,yellow,Retail,pcs,None,216.0,Yes,5,Yes,1.0,No,No,Yes,Yes,No,Yes,No
+476,ahg 125g box yellow,mingalz,None,AHG,finished goods,yellow,Retail,pcs,None,40.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+477,AHG 250g box yellow,mingalz,None,AHG,finished goods,yellow,Retail,pcs,None,15.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+478,ahg 375g box yellow,mingalz,None,AHG,finished goods,yellow,Retail,pcs,None,15.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+542,braga 500g box yellow,mingalz,None,braga,finished goods,yellow,Bulk,pcs,None,12.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+540,braga 330g box green,mingalz,None,braga,finished goods,green,Retail,pcs,None,18.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+18,mingalz150g box green,mingalz,None,mingalz,finished goods,green,Retail,pcs,None,24.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+243,mingalz 12g tikki green,mingalz,None,mingalz,finished goods,green,Retail,pcs,None,216.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+350,mingalz 12g box green,mingalz,None,mingalz,finished goods,green,Retail,pcs,None,288.0,Yes,5,Yes,1.0,No,No,Yes,Yes,No,Yes,No
+418,minglaz 330g box green,mingalz,None,mingalz,finished goods,green,Retail,pcs,None,16.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+559,mingalz 25g tikki green,mingalz,None,mingalz,finished goods,green,Retail,pcs,None,144.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+543,braga 500g box green,mingalz,None,braga,finished goods,green,Bulk,pcs,None,12.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+564,bags,packaging,None,packaging,wastage,packaging,None,pcs,None,1.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+569,tin drums,packaging,None,packaging,wastage,packaging,None,pcs,None,1.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+570,plastic cans,packaging,None,packaging,wastage,packaging,None,pcs,None,1.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+578,braga 330g box purple,mingalz,None,braga,finished goods,purple,Retail,pcs,None,18.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+579,braga 500g box puple,mingalz,None,braga,finished goods,purple,Retail,pcs,None,18.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+8,mingalz 150g box puple,mingalz,None,mingalz,finished goods,purple,Retail,pcs,None,24.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+9,mingalz 12g tikki puple,mingalz,None,mingalz,finished goods,purple,Retail,pcs,None,216.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+248,minglaz 12g box puple,mingalz,None,mingalz,finished goods,purple,Retail,pcs,None,288.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+417,mingalz 330g box puple,mingalz,None,mingalz,finished goods,purple,Retail,pcs,None,16.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+560,mingalz 25g tikki purple,mingalz,None,mingalz,finished goods,purple,Retail,pcs,None,144.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+244,mingalz 12g tikki pink,mingalz,None,mingalz,finished goods,pink,Retail,pcs,None,216.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+351,mingalz 12g box pink,mingalz,None,mingalz,finished goods,pink,Retail,pcs,None,288.0,Yes,5,Yes,1.0,No,No,Yes,Yes,No,Yes,No
+497,ahg 12g box pink,mingalz,None,AHG,finished goods,pink,Retail,pcs,None,216.0,Yes,5,Yes,1.0,No,No,Yes,Yes,No,Yes,No
+320,PAPAD GOL GAPPAY 110GM BOX,cracker,None,GolGappayBox,finished goods,crackerGolGappayBox,Retail,pcs,None,25.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+527,Rubber wheel,Scourer,"WUXI HASEN IMPORT AND EXPORT CO.,LTD",none,services,none,None,kg,None,0.0,Yes,5,Yes,1.0,No,No,No,Yes,No,No,No
+528,  Polyester fabric non woven,Scourer,"WUXI HASEN IMPORT AND EXPORT CO.,LTD",none,services,none,None,kg,None,0.0,Yes,5,Yes,1.0,No,No,No,Yes,No,No,No
+529,PCT dies,Scourer,"WUXI HASEN IMPORT AND EXPORT CO.,LTD",none,services,none,None,kg,None,0.0,Yes,5,Yes,1.0,No,No,No,Yes,No,No,No
+530,Diamond powder,Scourer,"WUXI HASEN IMPORT AND EXPORT CO.,LTD",none,services,none,None,kg,None,0.0,Yes,5,Yes,1.0,No,No,No,Yes,No,No,No
+185,CRACKER TRIANGLE  BULK,cracker,None,3d,finished goods,none,None,kg,None,0.0,No,5,Yes,0.0,No,No,No,No,No,No,No
+47,PAPAD GUJRATI 1KG,cracker,None,crackerPrawn gujrati,finished goods,none,None,kg,None,0.0,No,5,Yes,0.0,No,No,No,No,No,No,No
+49,PAPAD ZEERA 1KG,cracker,None,crackerPrawn zeera,finished goods,none,None,kg,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+291,PAPAD RACKET 1KG,cracker,None,crackerPrawn sports,finished goods,none,None,kg,None,0.0,No,5,Yes,160.0,No,No,No,No,No,No,No
+292,PAPAD BALL 1KG,cracker,None,crackerPrawn sports,finished goods,none,None,kg,None,0.0,No,5,Yes,160.0,No,No,No,No,No,No,No
+338,MINGALZ GREEN IN BULK,mingalz,None,Bulk,finished goods,none,None,kg,None,1.0,No,5,Yes,1.0,No,No,Yes,Yes,No,Yes,No
+340,MINGALZ PURPLE IN BULK,mingalz,None,Bulk,finished goods,none,None,kg,None,1.0,No,5,Yes,1.0,No,No,Yes,Yes,No,Yes,No
+50,PAPAD SMALL CRACKER 12KG,mingalz,None,crackerPrawn button,finished goods,none,None,kg,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+279,CITRIC ACID SPECIAL,seasoning,None,flour,finished goods,none,None,kg,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+395,SEASONING MAZEDAR POWDER 25KG,seasoning,None,chicken powder,finished goods,none,None,kg,None,0.0,No,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+60,SEASONING MSG Replacer,seasoning,None,MSG replacer,finished goods,none,None,kg,None,0.0,No,5,Yes,0.0,No,No,No,No,No,No,No
+258,SEASONING SPECIAL,seasoning,None,Seasoning Special,finished goods,none,None,kg,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+347,ultrasonic grinding and polishing machine 300W,seasoning,"TIANJIN ANBER INTERNATIONAL TRADE CO.,LTD",none,services,none,None,kg,None,0.0,Yes,3,Yes,1.0,No,No,No,Yes,No,No,No
+270,Yellow Voucher,Import charges,None,none,services,none,None,kg,None,0.0,Yes,2,Yes,1.0,No,Yes,No,No,No,No,No
+329,PICTL,Import charges,None,none,services,none,None,kg,None,0.0,Yes,0,Yes,1.0,No,Yes,No,No,No,No,No
+330,LOLO Charges,Import charges,None,none,services,none,None,kg,None,0.0,Yes,2,Yes,1.0,No,Yes,No,No,No,No,No
+332,IGM De-Blocking Charges,Import charges,None,none,services,none,None,kg,None,0.0,Yes,3,Yes,1.0,No,Yes,No,No,No,No,No
+336,Demurrage and detention charges,Import charges,None,none,services,none,None,kg,None,0.0,Yes,5,Yes,1.0,No,Yes,No,No,No,No,No
+337,IGM Amendment Charges,Import charges,None,none,services,none,None,kg,None,0.0,Yes,5,Yes,1.0,No,Yes,No,No,No,No,No
+394,KICTL,Import charges,None,none,services,none,None,kg,None,0.0,Yes,0,Yes,1.0,No,Yes,No,No,No,No,No
+423,SAPT,Import charges,None,none,services,none,None,kg,None,0.0,Yes,0,Yes,1.0,No,Yes,No,No,No,No,No
+541,CEREALS PROCESSING LINE COMPLETE,Machinery Spare Parts,JINAN DG MACHINERY,none,services,none,None,kg,None,0.0,Yes,5,Yes,1.0,No,No,No,Yes,No,No,No
+389,dxd-180 packing machine with all standard accessories,Machinery Spare Parts,"Jiangsu ZhongTai Packing Machinery co., ltd",none,services,none,None,kg,None,0.0,Yes,5,Yes,1.0,No,No,No,Yes,No,No,No
+32,JELLY STRAWBERRY 1KG,others,None,jelly,finished goods,none,None,kg,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+33,JELLY BANANA 1KG,others,None,jelly,finished goods,none,None,kg,None,0.0,No,5,Yes,1.0,No,No,No,No,No,No,No
+352,White Oil,machineCosumbale,CENTER OF CHEMICAL,none,consumables,none,None,kg,None,10.0,Yes,3,Yes,200.0,No,No,Yes,Yes,No,No,No
+255,Boiler chemical EC-2823,cleanignRelated,Flavor M.A.J Flavor,none,consumables,none,None,kg,None,0.0,Yes,0,Yes,0.0,No,Yes,No,Yes,No,No,No
+256,Cooling tower chemical EC-306,cleanignRelated,Flavor M.A.J Flavor,none,consumables,none,None,kg,None,0.0,Yes,0,Yes,0.0,No,Yes,No,Yes,No,No,No
+257,Chiller chemical EC-8539,cleanignRelated,Flavor M.A.J Flavor,none,consumables,none,None,kg,None,0.0,Yes,0,Yes,0.0,No,No,No,Yes,No,No,No
+491,Boiler chemical Phostreat 4000  (Antiscalant & sludge conditioner),cleanignRelated,None,none,consumables,none,None,kg,None,5.0,Yes,5,Yes,360.0,No,No,No,Yes,No,No,No
+563,breadcrumb wastage,breadcrumb,None,breadcrumb,wastage,breadcrumb,None,kg,None,1.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+173,BREAD CRUMBS 10KG ,breadcrumb,None,Bread Crumb,finished goods,breadcrumb,Bulk,kg,None,10.0,Yes,5,Yes,0.0,No,No,Yes,No,No,Yes,No
+109,Bread crumbs 200gm roll,filmFlexiblePackaging,None,breadcrumb,packing material,breadcrumb,None,kg,None,0.0,Yes,3,Yes,0.0,No,No,Yes,Yes,No,No,No
+38,PAPAD CRACKER WHITE 1KG ,cracker,None,crackerPrawn white,finished goods,crackerPrawn,Bulk,kg,None,12.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+40,PAPAD CRACKER COLOR 1KG ,cracker,None,crackerPrawn color,finished goods,crackerPrawn,Bulk,kg,None,12.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+162,PAPAD CRACKER BUTTON WHITE 1KG ,cracker,None,crackerPrawn button white,finished goods,crackerPrawn,Bulk,kg,None,12.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+175,PAPAD CRACKER BUTTON COLOR 1KG ,cracker,None,crackerPrawn button color,finished goods,crackerPrawn,Bulk,kg,None,12.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+342,PAPAD GOL GAPPAY 1KG,cracker,None,golgappay,finished goods,crackerGolGappay,Bulk,kg,None,12.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+362,PAPAD PIPES 1KG,cracker,None,Potato,finished goods,crackerPipes,Bulk,kg,None,10.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+443,PAPAD PATTI FRY 1KG,cracker,None,Potato,finished goods,crackerPipes,Bulk,kg,None,10.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+4,SEASONING CHICKEN POWDER 25KG,packagedPowderMix,None,chicken powder,finished goods,ckpRegular,Bulk,kg,None,25.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+7,SEASONING CHICKEN POWDER 20KG IND.,packagedPowderMix,None,chicken powder,finished goods,ckpRegular,Bulk,kg,None,20.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+183,PAPAD TRIANGLE 1KG ,cracker,None,3d,finished goods,cracker3d,Bulk,kg,None,10.0,Yes,5,Yes,0.0,No,No,Yes,No,No,Yes,No
+433,3d Papad,cracker,None,3d,finished goods,cracker3d,Bulk,kg,None,25.0,Yes,5,Yes,1.0,No,No,No,Yes,No,No,No
+191,SEASONING LIME 20KG (FOR SNACKS) ,seasoning,None,seasoningLimeRegular,finished goods,seasoningLimeRegular,Bulk,kg,None,20.0,Yes,5,Yes,0.0,No,No,Yes,No,No,Yes,No
+470,SEASONING LIME RESTAURANT 1KG,seasoning,None,seasoningLimeResturant,finished goods,seasoningLimeResturant,Bulk,kg,None,12.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+192,SEASONING ACHARI 20KG,seasoning,None,seasoningAchari,finished goods,seasoningAchari,Bulk,kg,None,20.0,Yes,5,Yes,0.0,No,No,Yes,No,No,Yes,No
+444,SEASONING CHEESE 20KG,seasoning,None,seasoningCheese,finished goods,seasoningCheese,Bulk,kg,None,20.0,Yes,5,Yes,0.0,No,No,Yes,No,No,Yes,No
+466,SEASONING BBQ 20KG,seasoning,None,seasoningBBQ,finished goods,seasoningBBQ,Bulk,kg,None,20.0,Yes,5,Yes,0.0,No,No,Yes,No,No,Yes,No
+473,SEASONING KETCHUP 20KG,seasoning,None,seasoningKetchup,finished goods,seasoningKetchup,Bulk,kg,None,20.0,Yes,5,Yes,0.0,No,No,Yes,No,No,Yes,No
+474,SEASONING VEGETABLE 20KG,seasoning,None,seasoningVegetable,finished goods,seasoningVegetable,Bulk,kg,None,20.0,Yes,5,Yes,0.0,No,No,Yes,No,No,Yes,No
+475,SEASONING MASALA 20KG,seasoning,None,seasoningMasala,finished goods,seasoningMasala,Bulk,kg,None,20.0,Yes,5,Yes,0.0,No,No,Yes,No,No,Yes,No
+283,SEASONING TOMATO 20KG,seasoning,None,seasoningTomato,finished goods,seasoningTomato,Bulk,kg,None,20.0,Yes,5,Yes,0.0,No,No,Yes,No,No,Yes,No
+287,SEASONING BIRYANI 10KG,seasoning,None,seasoningBiryani,finished goods,seasoningBiryani,Bulk,kg,None,10.0,Yes,5,Yes,0.0,No,No,Yes,No,No,Yes,No
+267,CAKE GEL 1KG BUCKET ,Bakery,None,cakegel,finished goods,cakegel,Bulk,kg,None,12.0,Yes,5,Yes,0.0,No,No,Yes,No,No,Yes,No
+316,CAKE GEL 18KG BUCKET ,Bakery,None,cakegel,finished goods,cakegel,Bulk,kg,None,18.0,Yes,5,Yes,0.0,No,No,Yes,No,No,Yes,No
+193,Invert Sugar,Bakery,None,invert sugar,finished goods,invertSugar,Bulk,kg,None,12.0,Yes,5,Yes,0.0,No,No,Yes,No,No,Yes,No
+446,PAN RELEASE AGENT 200Kg Drum ,Bakery,None,panRealease agent,finished goods,panReleaseWater,Bulk,kg,None,18.0,Yes,5,Yes,0.0,No,No,Yes,No,No,Yes,No
+195,WHIP CREAM RED 1KG,Bakery,None,Whip cream,finished goods,whipcream,Bulk,kg,None,12.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+406,WHIP CREAM GREEN 1KG,Bakery,None,Whip cream,finished goods,whipcream,Bulk,kg,None,12.0,Yes,5,Yes,1.0,No,No,Yes,Yes,No,No,No
+24,WHIP CREAM OLD,none,None,whipCream,raw material,whipcream,None,kg,None,1.0,No,0,Yes,1.0,No,No,Yes,No,No,Yes,No
+84,22x32 inches ldpe blue  dead,bag,None,soup & ckp,packing material,soup & ckp,None,kg,None,3.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+238,26x32 inches transparent ldpe..liner for 25kgbag ,bag,None,soup & ckp,packing material,soup & ckp,None,kg,None,0.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+502,dashi kheer mix 165gm roll,filmFlexiblePackaging,None,kheer,packing material,soup & ckp,None,kg,None,0.0,Yes,5,Yes,1.0,No,No,Yes,Yes,No,No,No
+87,chicken powder 100gm roll (new),filmFlexiblePackaging,None,soup & ckp,packing material,soup & ckp,None,kg,None,0.0,Yes,2,Yes,445.0,No,No,Yes,Yes,No,No,Yes
+89,chicken powder 18gm roll (new),filmFlexiblePackaging,None,soup & ckp,packing material,soup & ckp,None,kg,None,0.0,Yes,2,Yes,0.0,No,No,Yes,Yes,No,No,No
+91,chicken powder 80gm roll ,filmFlexiblePackaging,None,soup & ckp,packing material,soup & ckp,None,kg,None,0.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+100,soup c/s 55gm roll,filmFlexiblePackaging,None,soup & ckp,packing material,soup & ckp,None,kg,None,0.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+101,soup h/s 55gm roll,filmFlexiblePackaging,None,soup & ckp,packing material,soup & ckp,None,kg,None,0.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+102,soup v/s 55gm roll,filmFlexiblePackaging,None,soup & ckp,packing material,soup & ckp,None,kg,None,0.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+103,soup n/s 55gm roll,filmFlexiblePackaging,None,soup & ckp,packing material,soup & ckp,None,kg,None,0.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+450,soup tomato 55gm roll,filmFlexiblePackaging,None,soup & ckp,packing material,soup & ckp,None,kg,None,0.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+88,chicken powder 100gm roll (old),flexible packaging,None,soup & ckp,packing material,soup & ckp,None,kg,None,0.0,No,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+90,chicken powder 18gm roll (old),flexible packaging,None,soup & ckp,packing material,soup & ckp,None,kg,None,0.0,No,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+98,soup c/s 13gm roll,flexible packaging,None,soup & ckp,packing material,soup & ckp,None,kg,None,0.0,No,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+99,soup h/s 13gm roll,flexible packaging,None,soup & ckp,packing material,soup & ckp,None,kg,None,0.0,No,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+110,jumbo smacks 40gm salt&pepper roll,flexible packaging,None,soup & ckp,packing material,soup & ckp,None,kg,None,0.0,No,0,Yes,0.0,No,No,No,No,No,No,No
+111,jumbo smacks 16gm salt&pepperroll,flexible packaging,None,soup & ckp,packing material,soup & ckp,None,kg,None,0.0,No,0,Yes,0.0,No,No,No,No,No,No,No
+112,jumbo smacks 40gm masala roll,flexible packaging,None,soup & ckp,packing material,soup & ckp,None,kg,None,0.0,No,0,Yes,0.0,No,No,No,No,No,No,No
+113,jumbo smacks 16gm masala roll,flexible packaging,None,soup & ckp,packing material,soup & ckp,None,kg,None,0.0,No,0,Yes,0.0,No,No,No,No,No,No,No
+114,jumbo smacks 40gm cheese roll,flexible packaging,None,soup & ckp,packing material,soup & ckp,None,kg,None,0.0,No,0,Yes,0.0,No,No,No,No,No,No,No
+115,jumbo smacks 16gm cheese roll,flexible packaging,None,soup & ckp,packing material,soup & ckp,None,kg,None,0.0,No,0,Yes,0.0,No,No,No,No,No,No,No
+116,jumbo smacks 40gm Tomato roll,flexible packaging,None,soup & ckp,packing material,soup & ckp,None,kg,None,0.0,No,0,Yes,0.0,No,No,No,No,No,No,No
+271,PP bag for scourer 9inL+2in flap x12W ,bag,None,scourer,packing material,Scourer,None,kg,None,0.0,Yes,2,Yes,1.0,No,No,Yes,Yes,No,No,No
+314,brytex printed pouch 190mmL+32mm flap x127mmW ,bag,None,scourer,packing material,Scourer,None,kg,None,0.0,Yes,3,Yes,520.0,No,No,Yes,Yes,No,No,No
+573,mingalz,mingalz,None,mingalz,wastage,mingalz,None,kg,None,1.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+92,purple 12gm roll,filmFlexiblePackaging,None,mingalz,packing material,mingalz,None,kg,None,0.0,Yes,3,Yes,0.0,No,No,Yes,Yes,No,No,No
+93,purple 12gm roll -old,filmFlexiblePackaging,None,mingalz,packing material,mingalz,None,kg,None,0.0,No,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+94,yellow 12gm roll ,filmFlexiblePackaging,None,mingalz,packing material,mingalz,None,kg,None,0.0,Yes,3,Yes,0.0,No,No,Yes,Yes,No,No,No
+95,yellow 12gm roll -old,filmFlexiblePackaging,None,mingalz,packing material,mingalz,None,kg,None,0.0,No,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+96,silver metalized  roll width 420mm,filmFlexiblePackaging,None,mingalz,packing material,mingalz,None,kg,None,0.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+97,red 12gm roll -old,filmFlexiblePackaging,None,mingalz,packing material,mingalz,None,kg,None,0.0,No,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+245,green 12gm roll ,filmFlexiblePackaging,None,mingalz,packing material,mingalz,None,kg,None,0.0,Yes,3,Yes,0.0,No,No,Yes,Yes,No,No,No
+247,pink 12gm roll ,filmFlexiblePackaging,None,mingalz,packing material,mingalz,None,kg,None,0.0,Yes,3,Yes,0.0,No,No,Yes,Yes,No,No,No
+456,PLAIN PET+MPET+PE60 MIC 480 MM 17.00 PLAIN LAMINATED ROLL,filmFlexiblePackaging,None,mingalz,packing material,mingalz,None,kg,None,0.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+546,purple 25gm roll ,filmFlexiblePackaging,None,mingalz,packing material,mingalz,None,kg,None,0.0,Yes,5,Yes,0.0,No,No,No,Yes,No,No,No
+547,yellow 25gm roll ,filmFlexiblePackaging,None,mingalz,packing material,mingalz,None,kg,None,0.0,Yes,5,Yes,0.0,No,No,No,Yes,No,No,No
+548,green 25gm roll ,filmFlexiblePackaging,None,mingalz,packing material,mingalz,None,kg,None,0.0,Yes,5,Yes,0.0,No,No,No,Yes,No,No,No
+551,purple 125gm roll ,filmFlexiblePackaging,None,mingalz,packing material,mingalz,None,kg,None,0.0,Yes,5,Yes,0.0,No,No,No,Yes,No,No,No
+552,yellow 125gm roll ,filmFlexiblePackaging,None,mingalz,packing material,mingalz,None,kg,None,0.0,Yes,5,Yes,0.0,No,No,No,Yes,No,No,No
+553,green 125gm roll ,filmFlexiblePackaging,None,mingalz,packing material,mingalz,None,kg,None,0.0,Yes,5,Yes,0.0,No,No,No,Yes,No,No,No
+104,ice max roll,filmFlexiblePackaging,None,juice,packing material,mingalz,None,kg,None,0.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+366,POF 12microns 14inch,overwrap,None,mingalz,packing material,mingalz,None,kg,None,0.0,Yes,3,Yes,325.0,No,No,Yes,Yes,No,No,No
+367,POF 12microns 15inch,overwrap,None,mingalz,packing material,mingalz,None,kg,None,0.0,Yes,3,Yes,325.0,No,No,Yes,Yes,No,No,No
+566,iron scrap,others,None,others,wastage,others,None,kg,None,1.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+567,others,others,None,others,wastage,others,None,kg,None,1.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+82,cracker 1kg PP bag,bag,None,cracker,packing material,cracker,None,kg,None,0.0,Yes,3,Yes,0.0,No,No,Yes,Yes,No,No,No
+83,cracker 200gm box inner PP pouch,bag,None,cracker,packing material,cracker,None,kg,None,0.0,Yes,3,Yes,0.0,No,No,Yes,Yes,No,No,No
+414,18x24 inches transparent ldpe ..slanty 5kg,bag,None,cracker,packing material,cracker,None,kg,None,3.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+105,jelly roll 55gm,filmFlexiblePackaging,None,cracker,packing material,cracker,None,kg,None,0.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+106,cracker 100gm roll (new),filmFlexiblePackaging,None,cracker,packing material,cracker,None,kg,None,0.0,Yes,2,Yes,0.0,No,No,Yes,Yes,No,No,No
+107,cracker 500gm roll (old),filmFlexiblePackaging,None,cracker,packing material,cracker,None,kg,None,0.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+108,cracker 500gm roll (new),filmFlexiblePackaging,None,cracker,packing material,cracker,None,kg,None,0.0,Yes,3,Yes,0.0,No,No,Yes,Yes,No,No,No
+240,jelly roll 1kg,filmFlexiblePackaging,None,cracker,packing material,cracker,None,kg,None,0.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+241,jelly roll 80gm,filmFlexiblePackaging,None,cracker,packing material,cracker,None,kg,None,0.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+392,papad gol gapay 250gm roll,filmFlexiblePackaging,None,cracker,packing material,cracker,None,kg,None,0.0,Yes,6,Yes,0.0,No,No,Yes,Yes,No,No,No
+404,papad pipes 250gm roll,filmFlexiblePackaging,None,cracker,packing material,cracker,None,kg,None,0.0,Yes,6,Yes,0.0,No,No,Yes,Yes,No,No,No
+405,papad 250gm roll,filmFlexiblePackaging,None,cracker,packing material,cracker,None,kg,None,0.0,Yes,6,Yes,0.0,No,No,Yes,Yes,No,No,No
+412,papad zeera 250gm roll,filmFlexiblePackaging,None,cracker,packing material,cracker,None,kg,None,0.0,Yes,6,Yes,0.0,No,No,Yes,Yes,No,No,No
+429,papad Crackers Party Mix 250gm roll,filmFlexiblePackaging,None,cracker,packing material,cracker,None,kg,None,0.0,Yes,6,Yes,0.0,No,No,Yes,Yes,No,No,No
+441,papad cracker 1kg roll ,filmFlexiblePackaging,None,cracker,packing material,cracker,None,kg,None,0.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+511,Green Raita 10gm Roll,filmFlexiblePackaging,None,raita,packing material,Raita,None,kg,None,0.0,Yes,5,Yes,515.0,No,No,No,Yes,No,No,No
+512,Zeera Raita 10gm Roll,filmFlexiblePackaging,None,raita,packing material,Raita,None,kg,None,0.0,Yes,5,Yes,515.0,No,No,No,Yes,No,No,No
+345,stainless steel wire for scourer,Scourer,"TIANJIN ANBER INTERNATIONAL TRADE CO.,LTD",scourer,raw material,steelWire,None,kg,None,1.0,Yes,3,Yes,1.0,No,No,Yes,Yes,No,No,No
+346,stainless steel wire drawing lubricant,Scourer,"TIANJIN ANBER INTERNATIONAL TRADE CO.,LTD",scourer,raw material,Lubricant,None,kg,None,1.0,Yes,3,Yes,1.0,No,No,Yes,Yes,No,No,No
+168,Potato Starch,flour,None,cracker,raw material,starchPotato,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+169,Hard Maida,flour,None,mingalz,raw material,maidaHard,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+223,Sooji ,flour,None,mingalz,raw material,maidaSooji,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+129,corn starch rafhan 034010,flour,None,cracker,raw material,starchCorn,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+130,corn starch india,flour,None,cracker,raw material,starchCorn,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+221,corn starch rafhan 034010F,flour,None,cracker,raw material,starchCorn,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+233,corn starch marjan foods,flour,None,cracker,raw material,starchCorn,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+281,corn starch Brazil,flour,None,cracker,raw material,starchCorn,None,kg,None,1.0,Yes,3,Yes,0.0,No,No,Yes,Yes,No,No,No
+341,corn starch Egypt,flour,None,cracker,raw material,starchCorn,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,No,Yes,No,No,No
+353,SF-35600 STARCH,flour,None,cracker,raw material,starchCorn,None,kg,None,1.0,Yes,3,Yes,116.0,No,No,Yes,Yes,No,No,No
+370,maize starch sethi local,flour,None,cracker,raw material,starchCorn,None,kg,None,1.0,Yes,5,Yes,4500.0,No,No,Yes,Yes,No,No,No
+420,snowflakes starch rafhan 034020,flour,None,cracker,raw material,starchCorn,None,kg,None,1.0,Yes,5,Yes,98.0,No,No,Yes,Yes,No,No,No
+296,soft Maida,flour,None,cracker,raw material,maidaSoft,None,kg,None,1.0,Yes,3,Yes,0.0,No,No,Yes,Yes,No,No,No
+301,potato flakes micro,flour,None,cracker,raw material,potatoFlakes,None,kg,None,1.0,Yes,3,Yes,400.0,No,No,Yes,Yes,No,No,No
+210,Corn Flour MMFS2,flour,None,mingalz,raw material,cornFlour,None,kg,None,1.0,Yes,3,Yes,0.0,No,No,Yes,Yes,No,No,No
+333,Corn Flour MMK1,flour,None,mingalz,raw material,cornFlour,None,kg,None,1.0,Yes,3,Yes,48.0,No,No,Yes,Yes,No,No,No
+415,Daal mash grinded,flour,None,cracker,raw material,DaalMashGrind,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+222,rice whole,dehydratedVegetables,None,kheer,raw material,ricewhole,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+158,INACTIVE DRIED YEAST,milkAndProteins,None,seasoning,raw material,yeastExtract,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+268,Bionis YE NS,milkAndProteins,None,seasoning,raw material,yeastExtract,None,kg,None,1.0,Yes,5,Yes,1.0,No,No,Yes,Yes,No,No,No
+363,Bionis YE 38,milkAndProteins,None,seasoning,raw material,yeastExtract,None,kg,None,1.0,Yes,5,Yes,1.0,No,No,Yes,Yes,No,No,No
+364,Bionis MXE,milkAndProteins,None,seasoning,raw material,yeastExtract,None,kg,None,1.0,Yes,5,Yes,1.0,No,No,Yes,Yes,No,No,No
+416,inactive dried yeast fig102,milkAndProteins,None,seasoning,raw material,yeastExtract,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+165,sodium Cassienate,milkAndProteins,None,whipCream,raw material,proteinSodiumCaseinate,None,kg,None,1.0,Yes,0,Yes,1.0,No,No,Yes,Yes,No,No,No
+334,sodium Cassienate Lactonat EN,milkAndProteins,None,whipCream,raw material,proteinSodiumCaseinate,None,kg,None,1.0,Yes,5,Yes,2200.0,No,No,Yes,Yes,No,Yes,No
+142,HPMC methyl cellulose A15 ,foodChem,None,whipCream,raw material,hpmc,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+164,HPMC local,foodChem,None,whipCream,raw material,hpmc,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,Yes,No
+407,HPMC 55HD15,foodChem,None,whipCream,raw material,hpmc,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,Yes,No
+487,HPMC E4M,foodChem,None,whipCream,raw material,hpmc,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+488,HPMC E15,foodChem,None,whipCream,raw material,hpmc,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+489,HPMC K4M,foodChem,None,whipCream,raw material,hpmc,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+494,HPMC 65HD50,foodChem,None,whipCream,raw material,hpmc,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+286,calcium carbonate,foodChem,None,mingalz,raw material,calciumCarbonate,None,kg,None,1.0,Yes,3,Yes,1.0,No,No,Yes,Yes,No,No,No
+288,Sodium bi Carbonate,foodChem,None,cracker,raw material,sodiumBiCarbonate,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+132,salt,foodChem,Basit Salt Refinery HUB,seasoning,raw material,salt,None,kg,None,1.0,Yes,5,Yes,11.25,No,No,Yes,Yes,No,Yes,No
+137,sio2,foodChem,None,seasoning,raw material,sio2,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+325,Fumacel silica,foodChem,None,seasoning,raw material,sio2,None,kg,None,1.0,Yes,3,Yes,375.0,No,No,Yes,Yes,No,No,No
+139,carragenan DJ-650,foodChem,None,kheer,raw material,caragenan,None,kg,None,1.0,Yes,3,Yes,2700.0,No,No,Yes,Yes,No,No,No
+507,carragenan CL-220,foodChem,None,kheer,raw material,caragenan,None,kg,None,1.0,Yes,5,Yes,6400.0,No,No,Yes,Yes,No,No,No
+140,adipic acid,foodChem,None,seasoning,raw material,acid adipic,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+141,potassium citrate,foodChem,None,whipCream,raw material,potassium citrate,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+145,dsp,foodChem,None,whipCream,raw material,dsp,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+285,Di Sodium Phosphate,foodChem,None,whipCream,raw material,dsp,None,kg,None,1.0,Yes,3,Yes,360.0,No,No,Yes,Yes,No,No,No
+166,Tartaric Acid,foodChem,None,seasoning,raw material,acid tartaric,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+218,Sodium di Acetate,foodChem,None,seasoning,raw material,acid sodium di acetate,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+275,Malic Acid,foodChem,None,seasoning,raw material,acid malic,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+321,Sodium citrate,foodChem,None,seasoning,raw material,sodium citrate,None,kg,None,1.0,Yes,0,Yes,165.0,No,No,Yes,Yes,No,No,No
+19,CITRIC ACID,foodChem,None,seasoning,raw material,acid citric,None,kg,None,1.0,Yes,3,Yes,1.0,No,No,Yes,Yes,No,No,No
+138,EDTA,foodChem,None,whipCream,raw material,edta,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+143,Xanthan Gum,foodChem,None,whipCream,raw material,xanthanGum,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,Yes,No
+149,MCC,foodChem,None,whipCream,raw material,mcg,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+150,MCC RC9,foodChem,None,whipCream,raw material,mcg,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+481,avicel MCG 591 ,foodChem,None,whipCream,raw material,mcg,None,kg,None,1.0,Yes,5,Yes,2850.0,No,No,Yes,Yes,No,No,No
+493,vivapur MCG 591 P,foodChem,None,whipCream,raw material,mcg,None,kg,None,1.0,Yes,5,Yes,2850.0,No,No,Yes,Yes,No,No,No
+510,MCC (MBC-591),foodChem,None,whipCream,raw material,mcg,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,Yes,No
+526,MCC 591 Mingtai,foodChem,None,whipCream,raw material,mcg,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+534,vivapur MCG 591 FS,foodChem,None,whipCream,raw material,mcg,None,kg,None,1.0,Yes,5,Yes,1.0,No,No,No,Yes,No,No,No
+312,Stearic Acid,foodChem,None,cakegel,raw material,stearic acid,None,kg,None,1.0,Yes,3,Yes,0.0,No,No,Yes,Yes,No,No,No
+317,KOH potassium hydroxide ,foodChem,None,cakegel,raw material,potassium hydroxide,None,kg,None,1.0,Yes,3,Yes,1.0,No,No,Yes,Yes,No,No,No
+318,CACL calcium chloride,foodChem,None,cakegel,raw material,calcium chloride,None,kg,None,1.0,Yes,3,Yes,1.0,No,No,Yes,Yes,No,No,No
+131,I+G,foodChem,None,seasoning,raw material,iplusG,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,Yes,No
+469,CMC Carboxymethyl cellulose ,foodChem,None,whipCream,raw material,cmc,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+533,Zinc Acetate,foodChem,None,others,raw material,zinc acetate,None,kg,None,1.0,Yes,5,Yes,100.0,No,No,No,Yes,No,No,No
+391,powderGolGappayMasala,partiallyFinished,None,golgappay,raw material,powderGolGappayMasala,None,kg,None,1.0,Yes,5,Yes,320.0,No,No,Yes,Yes,No,No,No
+125,red chilli,vegetable powder,None,seasoning,raw material,powderRedChilli,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+126,Garlic Powder Local,vegetable powder,None,seasoning,raw material,powderGarlic,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+157,Garlic Powder Import,vegetable powder,None,seasoning,raw material,powderGarlic,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,Yes,No
+360,Garlic Powder Pure,vegetable powder,None,seasoning,raw material,powderGarlic,None,kg,None,1.0,Yes,5,Yes,680.0,No,No,Yes,Yes,No,No,No
+127,Black pepper,vegetable powder,None,seasoning,raw material,powderBlackPepper,None,kg,None,1.0,Yes,6,Yes,0.0,No,No,Yes,Yes,No,No,No
+128,ginger powder (Sounth),vegetable powder,None,seasoning,raw material,powderGinger,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+213,Kalonji,vegetable powder,None,seasoning,raw material,powderKlonji,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+214,Saunf Powder,vegetable powder,None,seasoning,raw material,powderSaunf,None,kg,None,1.0,Yes,6,Yes,0.0,No,No,Yes,Yes,No,No,No
+215,Turmeric (Haldi),vegetable powder,None,seasoning,raw material,powderHaldi,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+216,sarson - mustard powder ,vegetable powder,None,seasoning,raw material,powderMustard,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+217,Khatai Powder,vegetable powder,None,seasoning,raw material,powderKhatai,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+576,zeera powder,vegetable powder,None,seasoning,raw material,powderZeera,None,kg,None,1.0,Yes,0,Yes,600.0,No,No,No,No,No,No,No
+445,cinnamon - daar chini powder ,vegetable powder,None,seasoning,raw material,powderDaarChinni,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+482,coriander (dhanya) powder,vegetable powder,None,seasoning,raw material,powderCoriander,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+368,white pepper,vegetable powder,None,seasoning,raw material,powderWhitePepper,None,kg,None,1.0,Yes,0,Yes,880.0,No,No,Yes,Yes,No,No,No
+413,onion powder,vegetable powder,None,seasoning,raw material,powderOnion,None,kg,None,1.0,Yes,3,Yes,0.0,No,No,Yes,Yes,No,No,No
+426,spray dried tomato powder,vegetable powder,None,seasoning,raw material,powderTomato,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+310,Green chilli powder,vegetable powder,None,seasoning,raw material,powderGreenChilli,None,kg,None,1.0,Yes,3,Yes,0.0,No,No,No,No,No,No,No
+525,Green Chilli powder (dehydrated),vegetable powder,None,seasoning,raw material,powderGreenChilli,None,kg,None,1.0,Yes,6,Yes,0.0,No,No,Yes,Yes,No,No,No
+523,Black Salt,vegetable powder,None,seasoning,raw material,powderBlackSalt,None,kg,None,1.0,Yes,6,Yes,0.0,No,No,Yes,Yes,No,No,No
+504,Pista,dehydratedVegetables,None,kheer,raw material,pista,None,kg,None,1.0,Yes,5,Yes,3200.0,No,No,No,Yes,No,No,No
+505,Ellaichi dana,dehydratedVegetables,None,kheer,raw material,ellaichi dana,None,kg,None,1.0,Yes,5,Yes,620.0,No,No,No,Yes,No,No,No
+199,Oclona Oil,Fat,None,chocolate,raw material,cookingOil,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+237,COOKING OIL ,Fat,None,crackers,raw material,cookingOil,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+344,CHICKEN FAT OIL,Fat,None,chickenFat,raw material,chickenFat,None,kg,None,1.0,Yes,3,Yes,249.0,No,No,Yes,Yes,No,No,No
+31,WILCOTE 380,Fat,None,whipCream,raw material,HPKO,None,kg,None,1.0,Yes,5,Yes,216.0,No,No,Yes,Yes,No,Yes,No
+147,cbs Cargill,Fat,None,whipCream,raw material,HPKO,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+197,Fat Willmar HPKO,Fat,None,whipCream,raw material,HPKO,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,Yes,No
+276,WILCOTE 360,Fat,None,whipCream,raw material,HPKO,None,kg,None,1.0,Yes,5,Yes,212.0,No,No,Yes,Yes,No,Yes,No
+302,Fat IFFCo pro sco38,Fat,None,whipCream,raw material,HPKO,None,kg,None,1.0,Yes,3,Yes,190.0,No,No,Yes,Yes,No,Yes,No
+306,Fat CLSP914,Fat,None,whipCream,raw material,HPKO,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+326,HPKO (wilcote 380),Fat,None,whipCream,raw material,HPKO,None,kg,None,1.0,Yes,3,Yes,0.77,No,No,Yes,Yes,No,Yes,No
+327,HPKS (ULTRA CHOCO),Fat,None,whipCream,raw material,HPKO,None,kg,None,1.0,Yes,3,Yes,0.995,No,No,Yes,Yes,No,Yes,No
+355,Premium Cote  380,Fat,None,whipCream,raw material,HPKO,None,kg,None,1.0,Yes,3,Yes,250.0,No,No,Yes,Yes,No,No,No
+372,CBS Fat 555-HR,Fat,None,whipCream,raw material,HPKO,None,kg,None,1.0,Yes,5,Yes,255.0,No,No,Yes,Yes,No,No,No
+390,PREMIUM FAT,Fat,None,whipCream,raw material,HPKO,None,kg,None,1.0,Yes,6,Yes,137.0,No,No,No,Yes,No,No,No
+506,CBS ISOC Fat CBS,Fat,None,whipCream,raw material,HPKO,None,kg,None,1.0,Yes,5,Yes,520.0,No,No,No,Yes,No,No,No
+520,Fat AKOTOP P 70 ,Fat,None,whipCream,raw material,HPKO,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,No,Yes,No,Yes,No
+535,Cocosub (su3800),Fat,None,whipCream,raw material,HPKO,None,kg,None,1.0,Yes,5,Yes,1.0,No,No,No,Yes,No,Yes,No
+536,Fat Jade Kote 380,Fat,None,whipCream,raw material,HPKO,None,kg,None,1.0,Yes,5,Yes,5.0,No,No,No,Yes,No,No,No
+498,Biscuit Shortening Fat HQPO 36,Fat,None,chocolate,raw material,Shortening,None,kg,None,1.0,Yes,5,Yes,277.29,No,No,No,Yes,No,Yes,No
+305,SUNSET YELLOW ,food color,None,cracker,raw material,yellow,None,kg,None,1.0,Yes,3,Yes,740.0,No,No,Yes,Yes,No,No,No
+22,PONCEAU 4R RED,food color,None,cracker,raw material,red,None,kg,None,1.0,Yes,3,Yes,1050.0,No,No,Yes,Yes,No,No,No
+20,APPLE GREEN 104,food color,None,cracker,raw material,green,None,kg,None,1.0,Yes,3,Yes,350.0,No,No,Yes,Yes,No,No,No
+204,Orange Flavor Durarome,Flavors,None,jelly,raw material,Orange,None,kg,None,1.0,Yes,3,Yes,0.0,No,No,Yes,Yes,No,No,No
+23,TITANIUM DIOXIDE,food color,None,cracker,raw material,white,None,kg,None,1.0,Yes,3,Yes,1.0,No,No,Yes,Yes,No,No,No
+280,Caramel Color,food color,None,mingalz,raw material,colorCaramel,None,kg,None,1.0,Yes,3,Yes,1.0,No,No,Yes,Yes,No,No,No
+503,Chocolate Flavor SC975007 IFF,Flavors,None,mingalz,raw material,chocolate,None,kg,None,1.0,Yes,5,Yes,2975.0,No,No,No,Yes,No,No,No
+208,Lime Flavor k-0308797,Flavors,None,seasoning,raw material,lime,None,kg,None,1.0,Yes,0,Yes,1.0,No,No,Yes,Yes,No,No,No
+369,Cheese Flavor K-0308681,Flavors,None,seasoning,raw material,cheese,None,kg,None,1.0,Yes,3,Yes,2200.0,No,No,Yes,Yes,No,No,No
+430,CHEESE POWDER 131209,Flavors,None,seasoning,raw material,cheese,None,kg,None,1.0,Yes,6,Yes,4212.0,No,No,Yes,Yes,No,No,No
+250,Tomato Flavor E-9949696,Flavors,None,seasoning,raw material,tomato,None,kg,None,1.0,Yes,3,Yes,3750.0,No,No,Yes,Yes,No,No,No
+295,BIryani Flavor ??,Flavors,None,seasoning,raw material,Biryani,None,kg,None,1.0,Yes,3,Yes,1.0,No,No,Yes,Yes,No,No,No
+202,Pineapple Flavor Durarome,Flavors,None,jelly,raw material,Pineapple,None,kg,None,1.0,Yes,3,Yes,0.0,No,No,Yes,Yes,No,No,No
+205,Strawberry Flavor Durarome,Flavors,None,jelly,raw material,Strawberry,None,kg,None,1.0,Yes,3,Yes,1.0,No,No,Yes,Yes,No,No,No
+206,Banana Flavor Durarome,Flavors,None,jelly,raw material,Banana,None,kg,None,1.0,Yes,3,Yes,1.0,No,No,Yes,Yes,No,No,No
+207,Imli Flavor tamarind K-0308619,Flavors,None,seasoning,raw material,imli,None,kg,None,1.0,Yes,5,Yes,2000.0,No,No,Yes,Yes,No,No,No
+220,Green Mango Flavor D-1510211,Flavors,None,seasoning,raw material,mango,None,kg,None,1.0,Yes,3,Yes,5300.0,No,No,Yes,Yes,No,No,No
+427,Lime Flavor cystal ,Flavors,None,seasoning,raw material,limeCrystal,None,kg,None,1.0,Yes,5,Yes,1.0,No,No,Yes,Yes,No,No,No
+435,BBQ Flavor R-0714982,Flavors,None,seasoning,raw material,bbq,None,kg,None,1.0,Yes,5,Yes,4750.0,No,No,Yes,Yes,No,No,No
+211,Chicken Flavor k-0304153,Flavors,None,seasoning,raw material,chickenOil,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+212,Chicken Flavor Cooked,Flavors,None,seasoning,raw material,chickenOil,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+447,Grilled Chicken Flavor Oil,Flavors,None,seasoning,raw material,chickenOil,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+448,Chicken Flavor Oil,Flavors,None,seasoning,raw material,chickenOil,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+514,Chicken Flavor Base (FL2229-BS),Flavors,None,seasoning,raw material,chickenOil,None,kg,None,1.0,Yes,5,Yes,7200.0,No,No,Yes,Yes,No,No,No
+464,Mixed Vegetable Pickle Flavor E-1754702,Flavors,None,seasoning,raw material,pickle,None,kg,None,1.0,Yes,5,Yes,5300.0,No,No,Yes,Yes,No,No,No
+492,pizza flavor A-0504061,Flavors,None,seasoning,raw material,pizza,None,kg,None,1.0,Yes,5,Yes,7950.0,No,No,Yes,Yes,No,No,No
+159,Chicken Flavor IFF,Flavors,None,seasoning,raw material,chickenIFF,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,Yes,No
+508,Kewra flavor,Flavors,Allied Axiom Chemical PVT LTD,kheer,raw material,kewra,None,kg,None,1.0,Yes,5,Yes,3400.0,No,No,Yes,Yes,No,No,No
+167,Cocoa Powder,milkAndProteins,None,chocolate,raw material,CocoaPowder,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+30,SKIMMED MILK DAIRY AMERICA,milkAndProteins,None,chocolate,raw material,powderSkimmedMilk,None,kg,None,1.0,Yes,3,Yes,1.0,No,No,No,No,No,No,No
+274,Skimmed Milk Powder,milkAndProteins,None,chocolate,raw material,powderSkimmedMilk,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+436,whey powder,milkAndProteins,None,chocolate,raw material,whey powder,None,kg,None,1.0,Yes,5,Yes,1.0,No,No,Yes,Yes,No,No,No
+434,soya sauce powder,milkAndProteins,None,seasoning,raw material,powderSoySauce,None,kg,None,1.0,Yes,5,Yes,1.0,No,No,Yes,Yes,No,No,No
+201,Isolated Soy Protein,milkAndProteins,None,extrusion,raw material,portien isolated soy,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+522,Soya flour (Dehydrated soya flour),milkAndProteins,None,extrusion,raw material,flourSoy,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,No,Yes,No,No,No
+198,Wheat Gluten,milkAndProteins,None,extrusion,raw material,proteinWheatGluten,None,kg,None,1.0,Yes,5,Yes,1.0,No,No,Yes,Yes,No,Yes,No
+200,Malt Extract,glucose & sugar,None,mingalz,raw material,maltExtractLiquid,None,kg,None,1.0,Yes,3,Yes,0.0,No,No,Yes,Yes,No,Yes,No
+190,Maltose Syrup,glucose & sugar,None,mingalz,raw material,maltoseSyrup,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+135,maltodextrin tyte&lyle,glucose & sugar,None,seasoning,raw material,maltodexterin,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+361,maltodextrin local,glucose & sugar,None,seasoning,raw material,maltodexterin,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+455,Rice syrup solids ,glucose & sugar,None,seasoning,raw material,maltodexterin,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+133,sugar refined pharma grade,glucose & sugar,None,others,raw material,sugar,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+134,sugar -fine,glucose & sugar,None,others,raw material,sugar,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+203,sugar -moti Ahmed Sb,glucose & sugar,None,others,raw material,sugar,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+465,sugar refined khaleej,glucose & sugar,None,others,raw material,sugar,None,kg,None,1.0,Yes,5,Yes,119.0,No,No,Yes,Yes,No,No,No
+239,FructoPure Tate&Lyle,glucose & sugar,None,seasoning,raw material,powderFructose,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+349,VERSASWEET LD 110040 glucose,glucose & sugar,None,whipCream,raw material,glucose,None,kg,None,1.0,Yes,5,Yes,1.0,No,No,Yes,Yes,No,No,No
+26,P.G,glucose & sugar,None,cakegel,raw material,PropyleneGlycolLiquid,None,kg,None,1.0,Yes,3,Yes,1.0,No,No,No,No,No,No,No
+219,Propylene glycol PG,glucose & sugar,None,cakegel,raw material,PropyleneGlycolLiquid,None,kg,None,1.0,Yes,0,Yes,1.0,No,No,Yes,Yes,No,No,No
+234,Sorbitol,glucose & sugar,None,cakegel,raw material,sorbitol,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,Yes,No
+393,Glycerin,glucose & sugar,None,cakegel,raw material,glycerin,None,kg,None,1.0,Yes,5,Yes,1.0,No,No,Yes,Yes,No,Yes,No
+120,sweet corn,dehydratedVegetables,None,soups,raw material,FDCorn,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,Yes,No
+121,carrot flakes,dehydratedVegetables,None,soups,raw material,ADCarrotsFlaks,None,kg,None,1.0,Yes,3,Yes,0.0,No,No,Yes,Yes,No,No,No
+122,onion red flakes,dehydratedVegetables,None,soups,raw material,adOnionFlakes,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+123,leeks flakes,dehydratedVegetables,None,soups,raw material,ad Leeks,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,Yes,No
+124,noodle,dehydratedVegetables,None,soups,raw material,AD noodles,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+425,dehydrated white leeks flakes,dehydratedVegetables,None,soups,raw material,AD wehite leeks Flakes,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+490,dehydrated cabbage flakes,dehydratedVegetables,None,soups,raw material,AD cabbage flakes,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+323,white onion,dehydratedVegetables,None,soups,raw material,AD onion,None,kg,None,1.0,Yes,3,Yes,0.0,No,No,Yes,Yes,No,No,No
+29,TWIN 60,emulsifier,None,whipCream,raw material,tween60,None,kg,None,1.0,Yes,3,Yes,1.0,No,No,Yes,Yes,No,No,No
+146,Polysorbate 7462 ,emulsifier,None,whipCream,raw material,tween60,None,kg,None,1.0,Yes,0,Yes,1100.0,No,No,Yes,Yes,No,No,No
+28,soya lecithin,emulsifier,None,chocolate,raw material,lecithin,None,kg,None,1.0,Yes,3,Yes,1.0,No,No,Yes,Yes,No,Yes,No
+144,lecithin,emulsifier,None,chocolate,raw material,lecithin,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,No,No,No,No,No
+472,SSL (Sodium stearoyl-2-lactylate),emulsifier,None,whipCream,raw material,ssl,None,kg,None,1.0,Yes,5,Yes,1.0,No,No,Yes,Yes,No,No,No
+25,DISTILLED MONOGLYCERIDE (DMG),emulsifier,None,cakegel,raw material,DMG,None,kg,None,1.0,Yes,3,Yes,1.0,No,No,Yes,Yes,No,No,No
+27,PGE,emulsifier,None,cakegel,raw material,PGE,None,kg,None,1.0,Yes,3,Yes,1.0,No,No,Yes,Yes,No,Yes,No
+343,EKOLITE PE 03 P POLYGLYCEROL ,emulsifier,None,cakegel,raw material,PGE,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+331,EKOLITE PG 95 S GLYCOL ESTER BEADS,emulsifier,None,cakegel,raw material,PGMS,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+452,PGE 1155,emulsifier,None,panReleaseOil,raw material,PGE-1155-panrelease,None,kg,None,1.0,Yes,3,Yes,1.0,No,No,Yes,Yes,No,No,No
+453,PGPR 4150,emulsifier,None,panReleaseOil,raw material,PGPR,None,kg,None,1.0,Yes,3,Yes,1.0,No,No,Yes,Yes,No,No,No
+555,WATER,foodChem,None,others,raw material,water,None,kg,None,1.0,Yes,5,Yes,1.0,No,No,Yes,No,No,No,No
+550,Gelatin,foodChem,None,whipCream,raw material,gelatin,None,kg,None,1.0,Yes,5,Yes,1300.0,No,No,No,Yes,No,No,No
+269,zeera whole,dehydratedVegetables,None,raita,raw material,zeera whole,None,kg,None,1.0,Yes,0,Yes,600.0,No,No,Yes,Yes,No,No,No
+21,tartarzineLake,food color,None,juice,raw material,tartarzineLake,None,kg,None,1.0,Yes,3,Yes,1.0,No,No,Yes,Yes,No,No,No
+524,powderPodinaMint,vegetable powder,None,seasoning,raw material,powderPodinaMint,None,kg,None,1.0,Yes,6,Yes,0.0,No,No,Yes,Yes,No,No,No
+561,sports3dColor,partiallyFinished,None,cracker,raw material,sports3dColor,None,kg,None,1.0,Yes,5,Yes,1.0,No,No,No,Yes,No,No,No
+562,sports3dWhite,partiallyFinished,None,sports3dWhite,raw material,sports3dWhite,None,kg,None,1.0,No,5,Yes,1.0,No,No,No,Yes,No,No,No
+61,dipChocolate,partiallyFinished,None,mingalz,raw material,dipChocolate,None,kg,None,1.0,Yes,6,Yes,0.0,No,No,Yes,Yes,No,Yes,No
+249,dipStrawberry,partiallyFinished,None,mingalz,raw material,dipStrawberry,None,kg,None,1.0,Yes,2,Yes,1.0,No,No,Yes,Yes,No,No,No
+486,Achari Chilli Flavor powder CONC 6300,Flavors,None,seasoning,raw material,pickleAchaari,None,kg,None,1.0,Yes,5,Yes,1500.0,No,No,Yes,Yes,No,No,No
+311,dipWhiteChocolate,partiallyFinished,None,mingalz,raw material,dipWhiteChocolate,None,kg,None,1.0,Yes,3,Yes,1.0,No,No,Yes,Yes,No,No,No
+568,carborad carton boxes,packaging,None,packaging,wastage,packaging,None,kg,None,1.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+565,powders,soups and ckp,None,soups and ckp,wastage,soups and ckp,None,kg,None,1.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+571,ghatta,crackers,None,crackers,wastage,crackers,None,kg,None,1.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+572,color crackers,crackers,None,crackers,wastage,crackers,None,kg,None,1.0,Yes,5,Yes,1.0,No,No,Yes,No,No,Yes,No
+574,golgappamasala,packagedPowderMix,None,golgappamasala,finished goods,golgappamasala,Bulk,kg,None,1.0,Yes,5,Yes,320.0,No,No,Yes,No,No,No,No
+439,SUNSET YELLOW LAKE,food color,None,juice,raw material,sunsetyellowLake,None,kg,None,1.0,Yes,5,Yes,1.0,No,No,Yes,Yes,No,No,No
+136,dextroseAnhydrouse,glucose & sugar,None,seasoning,raw material,dextroseAnhydrouse,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+170,Rice Flour,flour,None,mingalz,raw material,riceflour,None,kg,None,1.0,Yes,0,Yes,0.0,No,No,Yes,Yes,No,No,No
+577,potassium chloride,foodChem,None,seasoning,raw material,potassiumchloride,None,kg,None,1.0,Yes,3,Yes,1.0,No,No,No,No,No,No,No
+259,Vanillin ,Flavors,None,mingalz,raw material,vanillanMingalz,None,kg,None,1.0,Yes,0,Yes,1.0,No,No,Yes,Yes,No,No,No
+463,SOYABEAN OIL ,Fat,None,panReleaseOil,raw material,soyaBeanOil,None,kg,None,1.0,Yes,5,Yes,0.0,No,No,Yes,Yes,No,No,No
+209,Vanilla bean Flavor k-0308797,Flavors,None,whipCream,raw material,VanillaWhipCream,None,kg,None,1.0,Yes,3,Yes,1.0,No,No,Yes,Yes,No,No,No
+59,Services,Import charges,None,none,services,none,None,none,None,0.0,Yes,2,Yes,1.0,No,Yes,No,No,No,No,No
+468,FTA Verification ,Import charges,None,none,services,none,None,none,None,1.0,Yes,5,Yes,1.0,No,Yes,No,No,No,No,No
+544,Cooling Tower Chemical Chemietreat 1000 (Antiscalant & corrosion)),cleanignRelated,None,none,consumables,none,None,none,None,25.0,Yes,5,Yes,425.0,No,No,No,Yes,No,No,No
+545,Cooling Tower Chemical Chemietreat 1052 (corrosion inhibitor & iron dispersant)),cleanignRelated,None,none,consumables,none,None,none,None,25.0,Yes,5,Yes,460.0,No,No,No,Yes,No,No,No
+515,handcare 2 handwashing lotion,cleanignRelated,ChemSafe cleaning chemicals,none,consumables,none,None,none,None,4.8,Yes,5,Yes,100.0,No,No,No,Yes,No,No,No
+516,instant floor cleaner,cleanignRelated,ChemSafe cleaning chemicals,none,consumables,none,None,none,None,4.8,Yes,5,Yes,110.0,No,No,No,Yes,No,No,No
+517,Proclean equipment detergent,cleanignRelated,ChemSafe cleaning chemicals,none,consumables,none,None,none,None,4.8,Yes,5,Yes,100.0,No,No,No,Yes,No,No,No
+518,professional hand sanitizer,cleanignRelated,ChemSafe cleaning chemicals,none,consumables,none,None,none,None,4.8,Yes,5,Yes,400.0,No,No,No,Yes,No,No,No
+519,peroxy active,cleanignRelated,ChemSafe cleaning chemicals,none,consumables,none,None,none,None,25.0,Yes,5,Yes,450.0,No,No,No,Yes,No,No,No
